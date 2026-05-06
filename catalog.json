@@ -157,6 +157,12 @@
       "displayName": "Hacipupu",
       "description": "An original dreamy baby-elf art-toy Codex pet with lavender pajamas, a sleepy star bonnet, and soft blind-box charm.",
       "path": "hacipupu"
+    },
+    {
+      "id": "molly-space",
+      "displayName": "Molly Space",
+      "description": "A chibi space-explorer blind-box doll Codex pet with a glossy helmet, moon boots, and pastel star charm.",
+      "path": "molly-space"
     }
   ]
 }
