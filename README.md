@@ -52,108 +52,19 @@ C:\Users\<you>\.codex\pets\<pet-id>
 
 ## Available Pets
 
+Here are a few pets you can install right away:
+
 ```bash
 npx petscodex install cat
 npx petscodex install ikun
 npx petscodex install tiga
 ```
 
-Current catalog:
-
 - `cat` - Cat
 - `ikun` - IKUN
 - `tiga` - Tiga
 
-## How It Works
-
-`npx petscodex install <pet>` downloads two files from this repository:
-
-```text
-<pet-id>/pet.json
-<pet-id>/spritesheet.webp
-```
-
-For example:
-
-```text
-https://raw.githubusercontent.com/mn8821236/petscodex/main/cat/pet.json
-https://raw.githubusercontent.com/mn8821236/petscodex/main/cat/spritesheet.webp
-```
-
-Then the CLI copies them into:
-
-```text
-~/.codex/pets/cat/
-```
-
-## Repository Layout
-
-```text
-catalog.json
-cat/
-  pet.json
-  spritesheet.webp
-ikun/
-  pet.json
-  spritesheet.webp
-tiga/
-  pet.json
-  spritesheet.webp
-bin/
-  petscodex.js
-lib/
-  cli.js
-  fs.js
-  github.js
-package.json
-```
-
-## Add a Pet
-
-Create a new folder named with a lowercase slug:
-
-```text
-my-pet/
-  pet.json
-  spritesheet.webp
-```
-
-Example `pet.json`:
-
-```json
-{
-  "id": "my-pet",
-  "displayName": "My Pet",
-  "description": "A friendly Codex desktop pet.",
-  "spritesheetPath": "spritesheet.webp"
-}
-```
-
-Then add it to `catalog.json`:
-
-```json
-{
-  "id": "my-pet",
-  "displayName": "My Pet",
-  "description": "A friendly Codex desktop pet.",
-  "path": "my-pet"
-}
-```
-
-## CLI Development
-
-Run locally:
-
-```bash
-node ./bin/petscodex.js list --source local
-node ./bin/petscodex.js install cat --dir ./tmp-pets --force
-```
-
-Test the package contents:
-
-```bash
-npm pack --dry-run
-```
+Explore more pets at [petscodex.com](https://petscodex.com).
 
 ## Links
 
