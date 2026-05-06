@@ -1,24 +1,41 @@
 # Pets Codex
 
-Community pets for Codex desktop, plus a tiny npm CLI that installs pets from
-this GitHub repository.
+Discover and install community desktop pets for Codex.
 
-## Install pets
+Visit the gallery: [petscodex.com](https://petscodex.com)
 
-After the package is published to npm:
+```bash
+npx petscodex install cat
+```
+
+Pets Codex is a lightweight catalog and installer for Codex desktop pets. The
+npm package provides the `petscodex` command, while this GitHub repository hosts
+the pet manifests and spritesheets used by the installer.
+
+## Quick Start
+
+List available pets:
 
 ```bash
 npx petscodex list
-npx petscodex install cat
-npx petscodex install ikun
-npx petscodex install tiga
 ```
 
-Before npm publishing, test directly from GitHub:
+Install a pet:
 
 ```bash
-npx github:mn8821236/petscodex list
-npx github:mn8821236/petscodex install cat
+npx petscodex install cat
+```
+
+Replace an existing pet:
+
+```bash
+npx petscodex install cat --force
+```
+
+Install into a custom directory:
+
+```bash
+npx petscodex install cat --dir ./tmp-pets
 ```
 
 By default, pets are installed into:
@@ -27,19 +44,49 @@ By default, pets are installed into:
 ~/.codex/pets/<pet-id>
 ```
 
-Use `--dir` to install somewhere else:
+On Windows, that resolves to:
 
-```bash
-npx petscodex install cat --dir ./tmp-pets
+```text
+C:\Users\<you>\.codex\pets\<pet-id>
 ```
 
-Use `--force` to replace an existing pet:
+## Available Pets
 
 ```bash
-npx petscodex install cat --force
+npx petscodex install cat
+npx petscodex install ikun
+npx petscodex install tiga
 ```
 
-## Repository layout
+Current catalog:
+
+- `cat` - Cat
+- `ikun` - IKUN
+- `tiga` - Tiga
+
+## How It Works
+
+`npx petscodex install <pet>` downloads two files from this repository:
+
+```text
+<pet-id>/pet.json
+<pet-id>/spritesheet.webp
+```
+
+For example:
+
+```text
+https://raw.githubusercontent.com/mn8821236/petscodex/main/cat/pet.json
+https://raw.githubusercontent.com/mn8821236/petscodex/main/cat/spritesheet.webp
+```
+
+Then the CLI copies them into:
+
+```text
+~/.codex/pets/cat/
+```
+
+## Repository Layout
 
 ```text
 catalog.json
@@ -52,17 +99,68 @@ ikun/
 tiga/
   pet.json
   spritesheet.webp
+bin/
+  petscodex.js
+lib/
+  cli.js
+  fs.js
+  github.js
+package.json
 ```
 
-The CLI downloads files from:
+## Add a Pet
+
+Create a new folder named with a lowercase slug:
 
 ```text
-https://raw.githubusercontent.com/mn8821236/petscodex/main/<pet-id>/
+my-pet/
+  pet.json
+  spritesheet.webp
 ```
 
-## Publish CLI to npm
+Example `pet.json`:
+
+```json
+{
+  "id": "my-pet",
+  "displayName": "My Pet",
+  "description": "A friendly Codex desktop pet.",
+  "spritesheetPath": "spritesheet.webp"
+}
+```
+
+Then add it to `catalog.json`:
+
+```json
+{
+  "id": "my-pet",
+  "displayName": "My Pet",
+  "description": "A friendly Codex desktop pet.",
+  "path": "my-pet"
+}
+```
+
+## CLI Development
+
+Run locally:
 
 ```bash
-npm login
-npm publish --access public
+node ./bin/petscodex.js list --source local
+node ./bin/petscodex.js install cat --dir ./tmp-pets --force
 ```
+
+Test the package contents:
+
+```bash
+npm pack --dry-run
+```
+
+## Links
+
+- Website: [petscodex.com](https://petscodex.com)
+- npm: [petscodex](https://www.npmjs.com/package/petscodex)
+- GitHub: [mn8821236/petscodex](https://github.com/mn8821236/petscodex)
+
+## License
+
+MIT
