@@ -15,6 +15,12 @@
       "path": "ikun"
     },
     {
+      "id": "musk",
+      "displayName": "Musk",
+      "description": "A cute chibi anime Elon Musk-style Codex pet.",
+      "path": "musk"
+    },
+    {
       "id": "tiga",
       "displayName": "Tiga",
       "description": "A chibi Ultraman Tiga-style Codex pet with a tiny color timer.",
