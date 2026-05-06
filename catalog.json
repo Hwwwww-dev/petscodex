@@ -163,6 +163,12 @@
       "displayName": "Molly Space",
       "description": "A chibi space-explorer blind-box doll Codex pet with a glossy helmet, moon boots, and pastel star charm.",
       "path": "molly-space"
+    },
+    {
+      "id": "pucky-dreamer",
+      "displayName": "Pucky Dreamer",
+      "description": "A whimsical dream-sprite blind-box Codex pet with mint hair, a pastel sleep hood, and a tiny cloud charm.",
+      "path": "pucky-dreamer"
     }
   ]
 }
