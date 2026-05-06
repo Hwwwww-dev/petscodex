@@ -57,12 +57,14 @@ Here are a few pets you can install right away:
 ```bash
 npx petscodex install cat
 npx petscodex install ikun
+npx petscodex install musk
 npx petscodex install tiga
 npx petscodex install trump
 ```
 
 - `cat` - Cat
 - `ikun` - IKUN
+- `musk` - Musk
 - `tiga` - Tiga
 - `trump` - Trump
 
