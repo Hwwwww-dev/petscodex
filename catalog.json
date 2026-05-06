@@ -151,6 +151,12 @@
       "displayName": "Gween Bean",
       "description": "A minty bean-sprout Codex pet with tiny rolling poses, shy smiles, cozy naps, and soft viral-bean charm.",
       "path": "gween-bean"
+    },
+    {
+      "id": "hacipupu",
+      "displayName": "Hacipupu",
+      "description": "An original dreamy baby-elf art-toy Codex pet with lavender pajamas, a sleepy star bonnet, and soft blind-box charm.",
+      "path": "hacipupu"
     }
   ]
 }
