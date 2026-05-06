@@ -169,6 +169,12 @@
       "displayName": "Pucky Dreamer",
       "description": "A whimsical dream-sprite blind-box Codex pet with mint hair, a pastel sleep hood, and a tiny cloud charm.",
       "path": "pucky-dreamer"
+    },
+    {
+      "id": "sweet-bean",
+      "displayName": "Sweet Bean",
+      "description": "A Sweet Bean-style Codex pet with a soft beige sleep cap, tiny dot eyes, dessert charms, and gentle blind-box sweetness.",
+      "path": "sweet-bean"
     }
   ]
 }
