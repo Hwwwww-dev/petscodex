@@ -19,6 +19,12 @@
       "displayName": "Tiga",
       "description": "A chibi Ultraman Tiga-style Codex pet with a tiny color timer.",
       "path": "tiga"
+    },
+    {
+      "id": "trump",
+      "displayName": "Trump",
+      "description": "A cute chibi anime Donald Trump-style Codex pet.",
+      "path": "trump"
     }
   ]
 }

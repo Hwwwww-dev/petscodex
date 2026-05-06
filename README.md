@@ -58,11 +58,13 @@ Here are a few pets you can install right away:
 npx petscodex install cat
 npx petscodex install ikun
 npx petscodex install tiga
+npx petscodex install trump
 ```
 
 - `cat` - Cat
 - `ikun` - IKUN
 - `tiga` - Tiga
+- `trump` - Trump
 
 Explore more pets at [petscodex.com](https://petscodex.com).
 
