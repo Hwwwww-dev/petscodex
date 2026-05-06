@@ -1,0 +1,24 @@
+{
+  "repository": "mn8821236/petscodex",
+  "branch": "main",
+  "pets": [
+    {
+      "id": "cat",
+      "displayName": "Cat",
+      "description": "A chibi gray-and-white Scottish Fold cat Codex pet based on the reference photo.",
+      "path": "cat"
+    },
+    {
+      "id": "ikun",
+      "displayName": "IKUN",
+      "description": "A hoodie chick with hot path stage energy.",
+      "path": "ikun"
+    },
+    {
+      "id": "tiga",
+      "displayName": "Tiga",
+      "description": "A chibi Ultraman Tiga-style Codex pet with a tiny color timer.",
+      "path": "tiga"
+    }
+  ]
+}

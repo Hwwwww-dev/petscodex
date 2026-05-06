@@ -1,0 +1,29 @@
+{
+  "name": "petscodex",
+  "version": "0.1.0",
+  "description": "Install Codex desktop pets from the Pets Codex GitHub catalog.",
+  "type": "module",
+  "bin": {
+    "petscodex": "./bin/petscodex.js"
+  },
+  "files": [
+    "bin",
+    "lib",
+    "catalog.json",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node ./bin/petscodex.js",
+    "list": "node ./bin/petscodex.js list",
+    "check": "node ./bin/petscodex.js list --source local"
+  },
+  "keywords": [
+    "codex",
+    "pets",
+    "cli"
+  ],
+  "license": "MIT"
+}
