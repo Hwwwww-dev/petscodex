@@ -273,6 +273,12 @@
       "path": "kakashi"
     },
     {
+      "id": "might-guy",
+      "displayName": "Might Guy",
+      "description": "A cute chibi pixel-art taijutsu teacher Codex pet with bowl-cut hair, huge eyebrows, orange leg warmers, and youthful thumbs-up energy.",
+      "path": "might-guy"
+    },
+    {
       "id": "maoqiu",
       "displayName": "毛球",
       "description": "A fluffy colorpoint cat Codex pet with white mittens and a serious face",
