@@ -979,6 +979,12 @@
       "displayName": "Eren Yeager",
       "description": "A chibi Eren Yeager-style Codex pet.",
       "path": "eren-yeager"
+    },
+    {
+      "id": "hitagi-senjougahara",
+      "displayName": "Hitagi Senjougahara",
+      "description": "A chibi Hitagi Senjougahara-style Codex pet.",
+      "path": "hitagi-senjougahara"
     }
   ]
 }
