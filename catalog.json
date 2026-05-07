@@ -781,6 +781,12 @@
       "displayName": "Happy Happy Cat",
       "description": "A bright chibi cat bouncing with pure happy-happy-happy loop energy.",
       "path": "happy-happy-cat"
+    },
+    {
+      "id": "guts",
+      "displayName": "Guts",
+      "description": "A chibi Guts-style Codex pet.",
+      "path": "guts"
     }
   ]
 }
