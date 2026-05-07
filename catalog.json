@@ -787,6 +787,12 @@
       "displayName": "Guts",
       "description": "A chibi Guts-style Codex pet.",
       "path": "guts"
+    },
+    {
+      "id": "kurisu-makise",
+      "displayName": "Kurisu Makise",
+      "description": "A chibi Kurisu Makise-style Codex pet.",
+      "path": "kurisu-makise"
     }
   ]
 }
