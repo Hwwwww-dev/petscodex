@@ -895,6 +895,12 @@
       "displayName": "Yuno Gasai",
       "description": "A chibi Yuno Gasai-style Codex pet.",
       "path": "yuno-gasai"
+    },
+    {
+      "id": "eikichi-onizuka",
+      "displayName": "Eikichi Onizuka",
+      "description": "A chibi Eikichi Onizuka-style Codex pet.",
+      "path": "eikichi-onizuka"
     }
   ]
 }
