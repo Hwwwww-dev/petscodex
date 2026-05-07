@@ -931,6 +931,12 @@
       "displayName": "Megumin",
       "description": "A chibi Megumin-style Codex pet.",
       "path": "megumin"
+    },
+    {
+      "id": "shinobu-oshino",
+      "displayName": "Shinobu Oshino",
+      "description": "A chibi Shinobu Oshino-style Codex pet.",
+      "path": "shinobu-oshino"
     }
   ]
 }
