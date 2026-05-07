@@ -231,6 +231,12 @@
       "path": "nami"
     },
     {
+      "id": "usopp",
+      "displayName": "Usopp",
+      "description": "A cute chibi pixel-art sniper Codex pet with a long nose, yellow goggles, a compact slingshot, and nervous-brave energy.",
+      "path": "usopp"
+    },
+    {
       "id": "maoqiu",
       "displayName": "毛球",
       "description": "A fluffy colorpoint cat Codex pet with white mittens and a serious face",
