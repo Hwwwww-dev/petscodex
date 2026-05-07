@@ -841,6 +841,12 @@
       "displayName": "Violet Evergarden",
       "description": "A chibi Violet Evergarden-style Codex pet.",
       "path": "violet-evergarden"
+    },
+    {
+      "id": "son-goku",
+      "displayName": "Son Goku",
+      "description": "A chibi martial artist Codex pet inspired by Son Goku.",
+      "path": "son-goku"
     }
   ]
 }
