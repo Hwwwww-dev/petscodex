@@ -835,6 +835,12 @@
       "displayName": "Osamu Dazai",
       "description": "A chibi Osamu Dazai-inspired Codex pet.",
       "path": "osamu-dazai"
+    },
+    {
+      "id": "violet-evergarden",
+      "displayName": "Violet Evergarden",
+      "description": "A chibi Violet Evergarden-style Codex pet.",
+      "path": "violet-evergarden"
     }
   ]
 }
