@@ -991,6 +991,12 @@
       "displayName": "Saber",
       "description": "A chibi Saber-style Codex pet.",
       "path": "saber"
+    },
+    {
+      "id": "holo",
+      "displayName": "Holo",
+      "description": "A chibi Holo-style Codex pet.",
+      "path": "holo"
     }
   ]
 }
