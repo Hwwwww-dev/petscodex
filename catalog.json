@@ -973,6 +973,12 @@
       "displayName": "Killua Zoldyck",
       "description": "A chibi Killua Zoldyck-style Codex pet.",
       "path": "killua-zoldyck"
+    },
+    {
+      "id": "eren-yeager",
+      "displayName": "Eren Yeager",
+      "description": "A chibi Eren Yeager-style Codex pet.",
+      "path": "eren-yeager"
     }
   ]
 }
