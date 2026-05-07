@@ -187,6 +187,12 @@
       "displayName": "AI Partner Worker",
       "description": "A chibi Chinese office meme AI partner worker Codex pet that helps through tired workdays.",
       "path": "ai-partner-worker"
+    },
+    {
+      "id": "cyber-shrimp-farmer",
+      "displayName": "Cyber Shrimp Farmer",
+      "description": "A chibi Chinese/Douyin cyber shrimp farmer Codex pet with aquaculture worker meme energy.",
+      "path": "cyber-shrimp-farmer"
     }
   ]
 }
