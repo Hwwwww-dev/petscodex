@@ -961,6 +961,12 @@
       "displayName": "Taiga Aisaka",
       "description": "A chibi Taiga Aisaka-style Codex pet.",
       "path": "taiga-aisaka"
+    },
+    {
+      "id": "rintarou-okabe",
+      "displayName": "Rintarou Okabe",
+      "description": "A chibi Rintarou Okabe-style Codex pet.",
+      "path": "rintarou-okabe"
     }
   ]
 }
