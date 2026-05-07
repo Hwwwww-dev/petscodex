@@ -1015,6 +1015,12 @@
       "displayName": "Izuku Midoriya",
       "description": "A chibi Izuku Midoriya-style Codex pet.",
       "path": "izuku-midoriya"
+    },
+    {
+      "id": "kaori-miyazono",
+      "displayName": "Kaori Miyazono",
+      "description": "A chibi Kaori Miyazono-style Codex pet.",
+      "path": "kaori-miyazono"
     }
   ]
 }
