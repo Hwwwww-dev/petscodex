@@ -721,6 +721,66 @@
       "displayName": "Tetsuwan Atom",
       "description": "A cute chibi Tetsuwan Atom-inspired Codex pet.",
       "path": "tetsuwan-atom"
+    },
+    {
+      "id": "luobo-tissue-cat",
+      "displayName": "Luobo Tissue Cat",
+      "description": "A cute meme-inspired chibi cat with radish-and-tissue props, big \"great job\" energy, and playful skit poses.",
+      "path": "luobo-tissue-cat"
+    },
+    {
+      "id": "laughing-pointing-cat",
+      "displayName": "Laughing Pointing Cat",
+      "description": "A mischievous chibi cat laughing and pointing, built for teasing reaction-meme energy.",
+      "path": "laughing-pointing-cat"
+    },
+    {
+      "id": "sword-shield-bibilabu-cat",
+      "displayName": "Sword Shield Bibilabu Cat",
+      "description": "A chaotic chibi cat with toy sword, tiny shield, and bouncy nonsense-sound skit energy.",
+      "path": "sword-shield-bibilabu-cat"
+    },
+    {
+      "id": "daimao-batiao-cat",
+      "displayName": "Daimao Batiao Cat",
+      "description": "A goofy soft chibi animation-style cat with sleepy, bashful, and overexcited sticker poses.",
+      "path": "daimao-batiao-cat"
+    },
+    {
+      "id": "broke-lowpoly-cat",
+      "displayName": "Broke Lowpoly Cat",
+      "description": "A deliberately rough low-poly-looking chibi cat with funny under-rendered, no-budget meme energy.",
+      "path": "broke-lowpoly-cat"
+    },
+    {
+      "id": "oiia-spinning-cat",
+      "displayName": "OIIA Spinning Cat",
+      "description": "A high-energy chibi spinning cat with dance-loop poses and electric meme rhythm.",
+      "path": "oiia-spinning-cat"
+    },
+    {
+      "id": "stomping-kneading-cat",
+      "displayName": "Stomping Kneading Cat",
+      "description": "A flustered chibi cat stomping and kneading with urgent, hard-to-explain reaction energy.",
+      "path": "stomping-kneading-cat"
+    },
+    {
+      "id": "freeze-dried-snack-cat",
+      "displayName": "Freeze-Dried Snack Cat",
+      "description": "A dramatic chibi cat crunching freeze-dried snacks with wide-eyed eating-meme poses.",
+      "path": "freeze-dried-snack-cat"
+    },
+    {
+      "id": "corn-snack-cat",
+      "displayName": "Corn Snack Cat",
+      "description": "A cheeky chibi cat nibbling corn with sly snack-face meme expressions.",
+      "path": "corn-snack-cat"
+    },
+    {
+      "id": "happy-happy-cat",
+      "displayName": "Happy Happy Cat",
+      "description": "A bright chibi cat bouncing with pure happy-happy-happy loop energy.",
+      "path": "happy-happy-cat"
     }
   ]
 }
