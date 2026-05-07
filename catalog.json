@@ -181,6 +181,12 @@
       "displayName": "Kemusan Dancer",
       "description": "A chibi Chinese/Douyin kemusan dancer office-worker Codex pet with viral dance energy.",
       "path": "kemusan-dancer"
+    },
+    {
+      "id": "ai-partner-worker",
+      "displayName": "AI Partner Worker",
+      "description": "A chibi Chinese office meme AI partner worker Codex pet that helps through tired workdays.",
+      "path": "ai-partner-worker"
     }
   ]
 }
