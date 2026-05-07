@@ -847,6 +847,12 @@
       "displayName": "Son Goku",
       "description": "A chibi martial artist Codex pet inspired by Son Goku.",
       "path": "son-goku"
+    },
+    {
+      "id": "izaya-orihara",
+      "displayName": "Izaya Orihara",
+      "description": "A chibi black-coat Codex pet inspired by Izaya Orihara.",
+      "path": "izaya-orihara"
     }
   ]
 }
