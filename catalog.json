@@ -967,6 +967,12 @@
       "displayName": "Rintarou Okabe",
       "description": "A chibi Rintarou Okabe-style Codex pet.",
       "path": "rintarou-okabe"
+    },
+    {
+      "id": "killua-zoldyck",
+      "displayName": "Killua Zoldyck",
+      "description": "A chibi Killua Zoldyck-style Codex pet.",
+      "path": "killua-zoldyck"
     }
   ]
 }
