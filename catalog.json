@@ -985,6 +985,12 @@
       "displayName": "Hitagi Senjougahara",
       "description": "A chibi Hitagi Senjougahara-style Codex pet.",
       "path": "hitagi-senjougahara"
+    },
+    {
+      "id": "saber",
+      "displayName": "Saber",
+      "description": "A chibi Saber-style Codex pet.",
+      "path": "saber"
     }
   ]
 }
