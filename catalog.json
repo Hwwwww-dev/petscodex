@@ -211,6 +211,12 @@
       "displayName": "Chopper",
       "description": "A cute chibi pixel-art reindeer doctor Codex pet with a pink hat, blue nose, tiny antlers, and shy cheerful energy.",
       "path": "chopper"
+    },
+    {
+      "id": "maoqiu",
+      "displayName": "毛球",
+      "description": "A fluffy colorpoint cat Codex pet with white mittens and a serious face",
+      "path": "maoqiu"
     }
   ]
 }
