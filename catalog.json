@@ -901,6 +901,12 @@
       "displayName": "Eikichi Onizuka",
       "description": "A chibi Eikichi Onizuka-style Codex pet.",
       "path": "eikichi-onizuka"
+    },
+    {
+      "id": "shigeo-kageyama",
+      "displayName": "Shigeo Kageyama",
+      "description": "A chibi Shigeo Kageyama-inspired Codex pet.",
+      "path": "shigeo-kageyama"
     }
   ]
 }
