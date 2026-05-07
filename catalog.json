@@ -801,24 +801,6 @@
       "path": "hachiman-hikigaya"
     },
     {
-      "id": "ken-kaneki",
-      "displayName": "Ken Kaneki",
-      "description": "A white-haired chibi Ken Kaneki-inspired Codex pet.",
-      "path": "ken-kaneki"
-    },
-    {
-      "id": "rem",
-      "displayName": "Rem",
-      "description": "A blue-haired chibi Rem-inspired Codex pet.",
-      "path": "rem"
-    },
-    {
-      "id": "saitama",
-      "displayName": "Saitama",
-      "description": "A bald yellow-suited chibi Saitama-inspired Codex pet.",
-      "path": "saitama"
-    },
-    {
       "id": "spike-spiegel",
       "displayName": "Spike Spiegel",
       "description": "A lanky chibi Spike Spiegel-inspired Codex pet.",
@@ -843,34 +825,10 @@
       "path": "violet-evergarden"
     },
     {
-      "id": "son-goku",
-      "displayName": "Son Goku",
-      "description": "A chibi martial artist Codex pet inspired by Son Goku.",
-      "path": "son-goku"
-    },
-    {
       "id": "izaya-orihara",
       "displayName": "Izaya Orihara",
       "description": "A chibi black-coat Codex pet inspired by Izaya Orihara.",
       "path": "izaya-orihara"
-    },
-    {
-      "id": "rin-toosaka",
-      "displayName": "Rin Toosaka",
-      "description": "A chibi twin-tail mage Codex pet inspired by Rin Toosaka.",
-      "path": "rin-toosaka"
-    },
-    {
-      "id": "houtarou-oreki",
-      "displayName": "Houtarou Oreki",
-      "description": "A quiet chibi school-uniform Codex pet inspired by Houtarou Oreki.",
-      "path": "houtarou-oreki"
-    },
-    {
-      "id": "natsu-dragneel",
-      "displayName": "Natsu Dragneel",
-      "description": "A chibi scarf-wearing Codex pet inspired by Natsu Dragneel.",
-      "path": "natsu-dragneel"
     },
     {
       "id": "mikasa-ackerman",
