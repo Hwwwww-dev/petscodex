@@ -237,6 +237,12 @@
       "path": "usopp"
     },
     {
+      "id": "franky",
+      "displayName": "Franky",
+      "description": "A cute chibi pixel-art cyborg shipwright Codex pet with blue hair, sunglasses, compact mechanical arms, and super pose energy.",
+      "path": "franky"
+    },
+    {
       "id": "maoqiu",
       "displayName": "毛球",
       "description": "A fluffy colorpoint cat Codex pet with white mittens and a serious face",
