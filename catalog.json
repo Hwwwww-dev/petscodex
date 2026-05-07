@@ -1003,6 +1003,12 @@
       "displayName": "Roy Mustang",
       "description": "A chibi Roy Mustang-style Codex pet.",
       "path": "roy-mustang"
+    },
+    {
+      "id": "zero-two",
+      "displayName": "Zero Two",
+      "description": "A chibi Zero Two-style Codex pet.",
+      "path": "zero-two"
     }
   ]
 }
