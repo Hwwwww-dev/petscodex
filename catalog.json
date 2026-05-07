@@ -799,6 +799,12 @@
       "displayName": "Hachiman Hikigaya",
       "description": "A sleepy deadpan chibi Hachiman Hikigaya-inspired Codex pet.",
       "path": "hachiman-hikigaya"
+    },
+    {
+      "id": "ken-kaneki",
+      "displayName": "Ken Kaneki",
+      "description": "A white-haired chibi Ken Kaneki-inspired Codex pet.",
+      "path": "ken-kaneki"
     }
   ]
 }
