@@ -225,6 +225,12 @@
       "path": "brook"
     },
     {
+      "id": "nami",
+      "displayName": "Nami",
+      "description": "A cute chibi pixel-art navigator Codex pet with orange hair, a nautical outfit, and playful weather-map energy.",
+      "path": "nami"
+    },
+    {
       "id": "maoqiu",
       "displayName": "毛球",
       "description": "A fluffy colorpoint cat Codex pet with white mittens and a serious face",
