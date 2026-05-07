@@ -865,6 +865,12 @@
       "displayName": "Houtarou Oreki",
       "description": "A quiet chibi school-uniform Codex pet inspired by Houtarou Oreki.",
       "path": "houtarou-oreki"
+    },
+    {
+      "id": "natsu-dragneel",
+      "displayName": "Natsu Dragneel",
+      "description": "A chibi scarf-wearing Codex pet inspired by Natsu Dragneel.",
+      "path": "natsu-dragneel"
     }
   ]
 }
