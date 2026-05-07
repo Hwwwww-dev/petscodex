@@ -889,6 +889,12 @@
       "displayName": "Kamina",
       "description": "A chibi Kamina-style Codex pet.",
       "path": "kamina"
+    },
+    {
+      "id": "yuno-gasai",
+      "displayName": "Yuno Gasai",
+      "description": "A chibi Yuno Gasai-style Codex pet.",
+      "path": "yuno-gasai"
     }
   ]
 }
