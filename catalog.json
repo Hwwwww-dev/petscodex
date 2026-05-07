@@ -907,6 +907,12 @@
       "displayName": "Shigeo Kageyama",
       "description": "A chibi Shigeo Kageyama-inspired Codex pet.",
       "path": "shigeo-kageyama"
+    },
+    {
+      "id": "koyomi-araragi",
+      "displayName": "Koyomi Araragi",
+      "description": "A chibi Koyomi Araragi-style Codex pet.",
+      "path": "koyomi-araragi"
     }
   ]
 }
