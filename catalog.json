@@ -1009,6 +1009,12 @@
       "displayName": "Zero Two",
       "description": "A chibi Zero Two-style Codex pet.",
       "path": "zero-two"
+    },
+    {
+      "id": "izuku-midoriya",
+      "displayName": "Izuku Midoriya",
+      "description": "A chibi Izuku Midoriya-style Codex pet.",
+      "path": "izuku-midoriya"
     }
   ]
 }
