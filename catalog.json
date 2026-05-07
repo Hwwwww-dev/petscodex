@@ -877,6 +877,12 @@
       "displayName": "Mikasa Ackerman",
       "description": "A chibi Mikasa Ackerman-style Codex pet.",
       "path": "mikasa-ackerman"
+    },
+    {
+      "id": "emilia",
+      "displayName": "Emilia",
+      "description": "A chibi Emilia-style Codex pet.",
+      "path": "emilia"
     }
   ]
 }
