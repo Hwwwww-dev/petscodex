@@ -937,6 +937,12 @@
       "displayName": "Shinobu Oshino",
       "description": "A chibi Shinobu Oshino-style Codex pet.",
       "path": "shinobu-oshino"
+    },
+    {
+      "id": "alucard",
+      "displayName": "Alucard",
+      "description": "A chibi Alucard-style Codex pet.",
+      "path": "alucard"
     }
   ]
 }
