@@ -255,6 +255,12 @@
       "path": "sabo"
     },
     {
+      "id": "naruto",
+      "displayName": "Naruto",
+      "description": "A cute chibi pixel-art ninja Codex pet with blond spiky hair, orange outfit, forehead protector, and compact chakra energy.",
+      "path": "naruto"
+    },
+    {
       "id": "maoqiu",
       "displayName": "毛球",
       "description": "A fluffy colorpoint cat Codex pet with white mittens and a serious face",
