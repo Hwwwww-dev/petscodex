@@ -823,6 +823,12 @@
       "displayName": "Spike Spiegel",
       "description": "A lanky chibi Spike Spiegel-inspired Codex pet.",
       "path": "spike-spiegel"
+    },
+    {
+      "id": "hisoka-morow",
+      "displayName": "Hisoka Morow",
+      "description": "A chibi magician-fighter inspired Codex pet.",
+      "path": "hisoka-morow"
     }
   ]
 }
