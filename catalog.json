@@ -267,6 +267,12 @@
       "path": "sasuke"
     },
     {
+      "id": "kakashi",
+      "displayName": "Kakashi",
+      "description": "A cute chibi pixel-art masked ninja teacher Codex pet with spiky silver hair, forehead protector, green vest, and calm book-reading energy.",
+      "path": "kakashi"
+    },
+    {
       "id": "maoqiu",
       "displayName": "毛球",
       "description": "A fluffy colorpoint cat Codex pet with white mittens and a serious face",
