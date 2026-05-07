@@ -213,6 +213,12 @@
       "path": "chopper"
     },
     {
+      "id": "sanji",
+      "displayName": "Sanji",
+      "description": "A cute chibi pixel-art gentleman cook Codex pet with blond hair, a black suit, and suave kicking energy.",
+      "path": "sanji"
+    },
+    {
       "id": "maoqiu",
       "displayName": "毛球",
       "description": "A fluffy colorpoint cat Codex pet with white mittens and a serious face",
