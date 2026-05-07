@@ -175,6 +175,12 @@
       "displayName": "Sweet Bean",
       "description": "A Sweet Bean-style Codex pet with a soft beige sleep cap, tiny dot eyes, dessert charms, and gentle blind-box sweetness.",
       "path": "sweet-bean"
+    },
+    {
+      "id": "kemusan-dancer",
+      "displayName": "Kemusan Dancer",
+      "description": "A chibi Chinese/Douyin kemusan dancer office-worker Codex pet with viral dance energy.",
+      "path": "kemusan-dancer"
     }
   ]
 }
