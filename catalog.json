@@ -919,6 +919,12 @@
       "displayName": "Arataka Reigen",
       "description": "A chibi Arataka Reigen-style Codex pet.",
       "path": "arataka-reigen"
+    },
+    {
+      "id": "mai-sakurajima",
+      "displayName": "Mai Sakurajima",
+      "description": "A chibi Mai Sakurajima-style Codex pet.",
+      "path": "mai-sakurajima"
     }
   ]
 }
