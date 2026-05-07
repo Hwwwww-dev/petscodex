@@ -949,6 +949,12 @@
       "displayName": "Joseph Joestar",
       "description": "A chibi Joseph Joestar-style Codex pet.",
       "path": "joseph-joestar"
+    },
+    {
+      "id": "shoto-todoroki",
+      "displayName": "Shoto Todoroki",
+      "description": "A chibi Shoto Todoroki-style Codex pet.",
+      "path": "shoto-todoroki"
     }
   ]
 }
