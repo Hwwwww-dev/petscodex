@@ -261,6 +261,12 @@
       "path": "naruto"
     },
     {
+      "id": "sasuke",
+      "displayName": "Sasuke",
+      "description": "A cute chibi pixel-art ninja Codex pet with black spiky hair, dark outfit, purple rope belt, and compact lightning energy.",
+      "path": "sasuke"
+    },
+    {
       "id": "maoqiu",
       "displayName": "毛球",
       "description": "A fluffy colorpoint cat Codex pet with white mittens and a serious face",
