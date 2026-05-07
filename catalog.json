@@ -997,6 +997,12 @@
       "displayName": "Holo",
       "description": "A chibi Holo-style Codex pet.",
       "path": "holo"
+    },
+    {
+      "id": "roy-mustang",
+      "displayName": "Roy Mustang",
+      "description": "A chibi Roy Mustang-style Codex pet.",
+      "path": "roy-mustang"
     }
   ]
 }
