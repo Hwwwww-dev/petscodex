@@ -871,6 +871,12 @@
       "displayName": "Natsu Dragneel",
       "description": "A chibi scarf-wearing Codex pet inspired by Natsu Dragneel.",
       "path": "natsu-dragneel"
+    },
+    {
+      "id": "mikasa-ackerman",
+      "displayName": "Mikasa Ackerman",
+      "description": "A chibi Mikasa Ackerman-style Codex pet.",
+      "path": "mikasa-ackerman"
     }
   ]
 }
