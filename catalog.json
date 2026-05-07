@@ -243,6 +243,12 @@
       "path": "franky"
     },
     {
+      "id": "ace",
+      "displayName": "Ace",
+      "description": "A cute chibi pixel-art fire-powered pirate Codex pet with an orange hat, bead necklace, and compact flame energy.",
+      "path": "ace"
+    },
+    {
       "id": "maoqiu",
       "displayName": "毛球",
       "description": "A fluffy colorpoint cat Codex pet with white mittens and a serious face",
