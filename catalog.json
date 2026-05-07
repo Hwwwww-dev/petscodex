@@ -793,6 +793,12 @@
       "displayName": "Kurisu Makise",
       "description": "A chibi Kurisu Makise-style Codex pet.",
       "path": "kurisu-makise"
+    },
+    {
+      "id": "hachiman-hikigaya",
+      "displayName": "Hachiman Hikigaya",
+      "description": "A sleepy deadpan chibi Hachiman Hikigaya-inspired Codex pet.",
+      "path": "hachiman-hikigaya"
     }
   ]
 }
