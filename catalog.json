@@ -219,6 +219,12 @@
       "path": "sanji"
     },
     {
+      "id": "brook",
+      "displayName": "Brook",
+      "description": "A cute chibi pixel-art skeleton musician Codex pet with a round afro, black suit, and cheerful gentleman energy.",
+      "path": "brook"
+    },
+    {
       "id": "maoqiu",
       "displayName": "毛球",
       "description": "A fluffy colorpoint cat Codex pet with white mittens and a serious face",
