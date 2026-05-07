@@ -853,6 +853,12 @@
       "displayName": "Izaya Orihara",
       "description": "A chibi black-coat Codex pet inspired by Izaya Orihara.",
       "path": "izaya-orihara"
+    },
+    {
+      "id": "rin-toosaka",
+      "displayName": "Rin Toosaka",
+      "description": "A chibi twin-tail mage Codex pet inspired by Rin Toosaka.",
+      "path": "rin-toosaka"
     }
   ]
 }
