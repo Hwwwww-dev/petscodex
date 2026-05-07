@@ -829,6 +829,12 @@
       "displayName": "Hisoka Morow",
       "description": "A chibi magician-fighter inspired Codex pet.",
       "path": "hisoka-morow"
+    },
+    {
+      "id": "osamu-dazai",
+      "displayName": "Osamu Dazai",
+      "description": "A chibi Osamu Dazai-inspired Codex pet.",
+      "path": "osamu-dazai"
     }
   ]
 }
