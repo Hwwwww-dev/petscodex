@@ -1,0 +1,6 @@
+{
+  "id": "astro-boy",
+  "displayName": "Astro Boy",
+  "description": "A chibi Astro Boy-style Codex pet.",
+  "spritesheetPath": "spritesheet.webp"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "chibi-maruko",
+  "displayName": "Chibi Maruko",
+  "description": "A chibi Maruko-style Codex desktop pet.",
+  "spritesheetPath": "spritesheet.webp"
+}

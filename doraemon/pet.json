@@ -1,0 +1,6 @@
+{
+  "id": "doraemon",
+  "displayName": "Doraemon",
+  "description": "A chibi Doraemon-style Codex pet.",
+  "spritesheetPath": "spritesheet.webp"
+}

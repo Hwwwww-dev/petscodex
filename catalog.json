@@ -47,7 +47,7 @@
     {
       "id": "sunwukong",
       "displayName": "Sun Wukong",
-      "description": "A cute chibi anime Sun Wukong Codex pet wearing a golden headband and waving a tiny golden cudgel.",
+      "description": "A cute chibi anime Sun Wukong Codex pet wearing a golden headband and wielding a tiny golden staff.",
       "path": "sunwukong"
     },
     {
@@ -283,6 +283,360 @@
       "displayName": "毛球",
       "description": "A fluffy colorpoint cat Codex pet with white mittens and a serious face",
       "path": "maoqiu"
+    },
+    {
+      "id": "electric-spark-cub",
+      "displayName": "Electric Spark Cub",
+      "description": "A cute electric spark cub Codex pet with lightning ears, bright blue eyes, and playful charged-up energy.",
+      "path": "electric-spark-cub"
+    },
+    {
+      "id": "vegeta",
+      "displayName": "Vegeta",
+      "description": "A cute chibi warrior prince Codex pet with upswept black hair, blue battle suit, white armor, and fierce power-up energy.",
+      "path": "vegeta"
+    },
+    {
+      "id": "sakura-haruno",
+      "displayName": "Sakura Haruno",
+      "description": "A cute chibi ninja healer Codex pet with pink hair, red outfit, forehead protector, and bright determined energy.",
+      "path": "sakura-haruno"
+    },
+    {
+      "id": "itachi-uchiha",
+      "displayName": "Itachi Uchiha",
+      "description": "A chibi Itachi Uchiha-style Codex pet.",
+      "path": "itachi-uchiha"
+    },
+    {
+      "id": "sosuke-aizen",
+      "displayName": "Sosuke Aizen",
+      "description": "A chibi Sosuke Aizen-inspired Codex pet.",
+      "path": "sosuke-aizen"
+    },
+    {
+      "id": "light-yagami",
+      "displayName": "Light Yagami",
+      "description": "A clever chibi notebook strategist Codex pet.",
+      "path": "light-yagami"
+    },
+    {
+      "id": "tatsuya-shiba",
+      "displayName": "Tatsuya Shiba",
+      "description": "A chibi Tatsuya Shiba-inspired Codex pet.",
+      "path": "tatsuya-shiba"
+    },
+    {
+      "id": "kirito",
+      "displayName": "Kirito",
+      "description": "A chibi Kirito-inspired Codex pet.",
+      "path": "kirito"
+    },
+    {
+      "id": "asuna",
+      "displayName": "Asuna",
+      "description": "A chibi Asuna-inspired Codex pet.",
+      "path": "asuna"
+    },
+    {
+      "id": "edward-elric",
+      "displayName": "Edward Elric",
+      "description": "A chibi Edward Elric-inspired Codex pet.",
+      "path": "edward-elric"
+    },
+    {
+      "id": "alphonse-elric",
+      "displayName": "Alphonse Elric",
+      "description": "A chibi Alphonse Elric-style Codex pet.",
+      "path": "alphonse-elric"
+    },
+    {
+      "id": "hikaru-shindo",
+      "displayName": "Hikaru Shindo",
+      "description": "A chibi Hikaru Shindo-style Codex pet.",
+      "path": "hikaru-shindo"
+    },
+    {
+      "id": "sai-fujiwara",
+      "displayName": "Sai Fujiwara",
+      "description": "A chibi Sai Fujiwara-style Codex pet.",
+      "path": "sai-fujiwara"
+    },
+    {
+      "id": "conan-edogawa",
+      "displayName": "Conan Edogawa",
+      "description": "A chibi Conan Edogawa-style Codex pet.",
+      "path": "conan-edogawa"
+    },
+    {
+      "id": "shinichi-kudo",
+      "displayName": "Shinichi Kudo",
+      "description": "A chibi Shinichi Kudo-style Codex pet.",
+      "path": "shinichi-kudo"
+    },
+    {
+      "id": "ran-mouri",
+      "displayName": "Ran Mouri",
+      "description": "A chibi Ran Mouri-style Codex pet.",
+      "path": "ran-mouri"
+    },
+    {
+      "id": "ai-haibara",
+      "displayName": "Ai Haibara",
+      "description": "A chibi Ai Haibara-style Codex pet.",
+      "path": "ai-haibara"
+    },
+    {
+      "id": "kaito-kid",
+      "displayName": "Kaito Kid",
+      "description": "A chibi Kaito Kid-style Codex pet.",
+      "path": "kaito-kid"
+    },
+    {
+      "id": "heiji-hattori",
+      "displayName": "Heiji Hattori",
+      "description": "A chibi Heiji Hattori-style Codex pet.",
+      "path": "heiji-hattori"
+    },
+    {
+      "id": "hanamichi-sakuragi",
+      "displayName": "Hanamichi Sakuragi",
+      "description": "A chibi Hanamichi Sakuragi-style Codex pet.",
+      "path": "hanamichi-sakuragi"
+    },
+    {
+      "id": "kaede-rukawa",
+      "displayName": "Kaede Rukawa",
+      "description": "A chibi Kaede Rukawa-style basketball Codex pet.",
+      "path": "kaede-rukawa"
+    },
+    {
+      "id": "takenori-akagi",
+      "displayName": "Takenori Akagi",
+      "description": "A chibi Takenori Akagi-style basketball captain Codex pet.",
+      "path": "takenori-akagi"
+    },
+    {
+      "id": "hisashi-mitsui",
+      "displayName": "Hisashi Mitsui",
+      "description": "A chibi Hisashi Mitsui-style basketball shooter Codex pet.",
+      "path": "hisashi-mitsui"
+    },
+    {
+      "id": "ryota-miyagi",
+      "displayName": "Ryota Miyagi",
+      "description": "A chibi Ryota Miyagi-style basketball point guard Codex pet.",
+      "path": "ryota-miyagi"
+    },
+    {
+      "id": "coach-anzai",
+      "displayName": "Coach Anzai",
+      "description": "A chibi Coach Anzai-style basketball coach Codex pet.",
+      "path": "coach-anzai"
+    },
+    {
+      "id": "ryoma-echizen",
+      "displayName": "Ryoma Echizen",
+      "description": "A chibi Ryoma Echizen-style tennis Codex pet.",
+      "path": "ryoma-echizen"
+    },
+    {
+      "id": "kunimitsu-tezuka",
+      "displayName": "Kunimitsu Tezuka",
+      "description": "A chibi Kunimitsu Tezuka-style tennis Codex pet.",
+      "path": "kunimitsu-tezuka"
+    },
+    {
+      "id": "shusuke-fuji",
+      "displayName": "Shusuke Fuji",
+      "description": "A chibi Shusuke Fuji-style tennis Codex pet.",
+      "path": "shusuke-fuji"
+    },
+    {
+      "id": "keigo-atobe",
+      "displayName": "Keigo Atobe",
+      "description": "A chibi Keigo Atobe-style tennis Codex pet.",
+      "path": "keigo-atobe"
+    },
+    {
+      "id": "seiichi-yukimura",
+      "displayName": "Seiichi Yukimura",
+      "description": "A chibi Seiichi Yukimura-style tennis Codex pet.",
+      "path": "seiichi-yukimura"
+    },
+    {
+      "id": "yusuke-urameshi",
+      "displayName": "Yusuke Urameshi",
+      "description": "A chibi spirit detective-inspired Codex pet.",
+      "path": "yusuke-urameshi"
+    },
+    {
+      "id": "kurama",
+      "displayName": "Kurama",
+      "description": "A chibi fox-spirit fighter-inspired Codex pet.",
+      "path": "kurama"
+    },
+    {
+      "id": "hiei",
+      "displayName": "Hiei",
+      "description": "A chibi dark swordsman-inspired Codex pet.",
+      "path": "hiei"
+    },
+    {
+      "id": "kazuma-kuwabara",
+      "displayName": "Kazuma Kuwabara",
+      "description": "A chibi spirit sword fighter-inspired Codex pet.",
+      "path": "kazuma-kuwabara"
+    },
+    {
+      "id": "kenshin-himura",
+      "displayName": "Kenshin Himura",
+      "description": "A chibi wandering swordsman-inspired Codex pet.",
+      "path": "kenshin-himura"
+    },
+    {
+      "id": "kaoru-kamiya",
+      "displayName": "Kaoru Kamiya",
+      "description": "A chibi Kaoru Kamiya-style kendo dojo pet.",
+      "path": "kaoru-kamiya"
+    },
+    {
+      "id": "sanosuke-sagara",
+      "displayName": "Sanosuke Sagara",
+      "description": "A chibi Sanosuke Sagara-style street fighter pet.",
+      "path": "sanosuke-sagara"
+    },
+    {
+      "id": "makoto-shishio",
+      "displayName": "Makoto Shishio",
+      "description": "A chibi Makoto Shishio-style bandaged swordsman pet.",
+      "path": "makoto-shishio"
+    },
+    {
+      "id": "inuyasha",
+      "displayName": "Inuyasha",
+      "description": "A chibi Inuyasha-style half-demon swordsman pet.",
+      "path": "inuyasha"
+    },
+    {
+      "id": "kagome-higurashi",
+      "displayName": "Kagome Higurashi",
+      "description": "A chibi Kagome Higurashi-inspired Codex pet.",
+      "path": "kagome-higurashi"
+    },
+    {
+      "id": "sesshomaru",
+      "displayName": "Sesshomaru",
+      "description": "A chibi Sesshomaru-style Codex pet.",
+      "path": "sesshomaru"
+    },
+    {
+      "id": "kikyo",
+      "displayName": "Kikyo",
+      "description": "A chibi Kikyo-style Codex pet.",
+      "path": "kikyo"
+    },
+    {
+      "id": "naraku",
+      "displayName": "Naraku",
+      "description": "A chibi Naraku-style Codex pet.",
+      "path": "naraku"
+    },
+    {
+      "id": "astro-boy",
+      "displayName": "Astro Boy",
+      "description": "A chibi Astro Boy-style Codex pet.",
+      "path": "astro-boy"
+    },
+    {
+      "id": "doraemon",
+      "displayName": "Doraemon",
+      "description": "A chibi Doraemon-style Codex pet.",
+      "path": "doraemon"
+    },
+    {
+      "id": "nobita-nobi",
+      "displayName": "Nobita Nobi",
+      "description": "A chibi Nobita Nobi-style Codex pet.",
+      "path": "nobita-nobi"
+    },
+    {
+      "id": "shizuka-minamoto",
+      "displayName": "Shizuka Minamoto",
+      "description": "A chibi Shizuka Minamoto-style Codex pet.",
+      "path": "shizuka-minamoto"
+    },
+    {
+      "id": "gian",
+      "displayName": "Gian",
+      "description": "A chibi Gian-style Codex pet.",
+      "path": "gian"
+    },
+    {
+      "id": "suneo-honekawa",
+      "displayName": "Suneo Honekawa",
+      "description": "A chibi Suneo Honekawa-style Codex pet.",
+      "path": "suneo-honekawa"
+    },
+    {
+      "id": "crayon-shinchan",
+      "displayName": "Crayon Shinchan",
+      "description": "A chibi Crayon Shinchan-inspired Codex pet.",
+      "path": "crayon-shinchan"
+    },
+    {
+      "id": "chibi-maruko",
+      "displayName": "Chibi Maruko",
+      "description": "A chibi Maruko-style Codex desktop pet.",
+      "path": "chibi-maruko"
+    },
+    {
+      "id": "grandpa-tomozou",
+      "displayName": "Grandpa Tomozou",
+      "description": "A chibi Grandpa Tomozou-style Codex desktop pet.",
+      "path": "grandpa-tomozou"
+    },
+    {
+      "id": "sakura-kinomoto",
+      "displayName": "Sakura Kinomoto",
+      "description": "A chibi Sakura Kinomoto-inspired Codex pet.",
+      "path": "sakura-kinomoto"
+    },
+    {
+      "id": "tomoyo-daidoji",
+      "displayName": "Tomoyo Daidoji",
+      "description": "A chibi Tomoyo Daidoji-inspired Codex pet.",
+      "path": "tomoyo-daidoji"
+    },
+    {
+      "id": "syaoran-li",
+      "displayName": "Syaoran Li",
+      "description": "A chibi Syaoran Li-inspired Codex pet.",
+      "path": "syaoran-li"
+    },
+    {
+      "id": "usagi-tsukino",
+      "displayName": "Usagi Tsukino",
+      "description": "A chibi Usagi Tsukino-style Codex pet.",
+      "path": "usagi-tsukino"
+    },
+    {
+      "id": "mamoru-chiba",
+      "displayName": "Mamoru Chiba",
+      "description": "A chibi Mamoru Chiba-style Codex pet.",
+      "path": "mamoru-chiba"
+    },
+    {
+      "id": "ami-mizuno",
+      "displayName": "Ami Mizuno",
+      "description": "A chibi Ami Mizuno-style Codex pet.",
+      "path": "ami-mizuno"
+    },
+    {
+      "id": "rei-hino",
+      "displayName": "Rei Hino",
+      "description": "A chibi Rei Hino-inspired Codex pet.",
+      "path": "rei-hino"
     }
   ]
 }

@@ -1,0 +1,6 @@
+{
+  "id": "conan-edogawa",
+  "displayName": "Conan Edogawa",
+  "description": "A chibi Conan Edogawa-style Codex pet.",
+  "spritesheetPath": "spritesheet.webp"
+}
