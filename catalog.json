@@ -943,6 +943,12 @@
       "displayName": "Alucard",
       "description": "A chibi Alucard-style Codex pet.",
       "path": "alucard"
+    },
+    {
+      "id": "joseph-joestar",
+      "displayName": "Joseph Joestar",
+      "description": "A chibi Joseph Joestar-style Codex pet.",
+      "path": "joseph-joestar"
     }
   ]
 }
