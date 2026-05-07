@@ -805,6 +805,12 @@
       "displayName": "Ken Kaneki",
       "description": "A white-haired chibi Ken Kaneki-inspired Codex pet.",
       "path": "ken-kaneki"
+    },
+    {
+      "id": "rem",
+      "displayName": "Rem",
+      "description": "A blue-haired chibi Rem-inspired Codex pet.",
+      "path": "rem"
     }
   ]
 }
