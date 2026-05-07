@@ -1,0 +1,6 @@
+{
+  "id": "tetsuwan-atom",
+  "displayName": "Tetsuwan Atom",
+  "description": "A cute chibi Tetsuwan Atom-inspired Codex pet.",
+  "spritesheetPath": "spritesheet.webp"
+}

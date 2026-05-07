@@ -631,6 +631,96 @@
       "displayName": "Rei Hino",
       "description": "A chibi Rei Hino-inspired Codex pet.",
       "path": "rei-hino"
+    },
+    {
+      "id": "ash-ketchum",
+      "displayName": "Ash Ketchum",
+      "description": "A chibi Ash Ketchum-style Codex pet.",
+      "path": "ash-ketchum"
+    },
+    {
+      "id": "asuka-langley",
+      "displayName": "Asuka Langley",
+      "description": "A cute chibi Asuka Langley-inspired Codex pet.",
+      "path": "asuka-langley"
+    },
+    {
+      "id": "brock",
+      "displayName": "Brock",
+      "description": "A chibi Brock-style Codex pet.",
+      "path": "brock"
+    },
+    {
+      "id": "ichigo-kurosaki",
+      "displayName": "Ichigo Kurosaki",
+      "description": "A chibi Ichigo Kurosaki Codex pet.",
+      "path": "ichigo-kurosaki"
+    },
+    {
+      "id": "ikkyu",
+      "displayName": "Ikkyu",
+      "description": "A chibi Ikkyu-style Codex pet.",
+      "path": "ikkyu"
+    },
+    {
+      "id": "l-lawliet",
+      "displayName": "L",
+      "description": "A chibi L Lawliet Codex pet.",
+      "path": "l-lawliet"
+    },
+    {
+      "id": "makoto-kino",
+      "displayName": "Makoto Kino",
+      "description": "A cute chibi Makoto Kino-inspired Codex pet.",
+      "path": "makoto-kino"
+    },
+    {
+      "id": "minako-aino",
+      "displayName": "Minako Aino",
+      "description": "A chibi Minako Aino-style Codex pet.",
+      "path": "minako-aino"
+    },
+    {
+      "id": "minato-namikaze",
+      "displayName": "Minato Namikaze",
+      "description": "A chibi Minato Namikaze Codex pet.",
+      "path": "minato-namikaze"
+    },
+    {
+      "id": "misty",
+      "displayName": "Misty",
+      "description": "A chibi Misty-style Codex pet.",
+      "path": "misty"
+    },
+    {
+      "id": "pikachu",
+      "displayName": "Pikachu",
+      "description": "A chibi Pikachu-style Codex pet.",
+      "path": "pikachu"
+    },
+    {
+      "id": "rei-ayanami",
+      "displayName": "Rei Ayanami",
+      "description": "A cute chibi Rei Ayanami-inspired Codex pet.",
+      "path": "rei-ayanami"
+    },
+    {
+      "id": "rukia-kuchiki",
+      "displayName": "Rukia Kuchiki",
+      "description": "A chibi Rukia Kuchiki Codex pet.",
+      "path": "rukia-kuchiki"
+    },
+    {
+      "id": "shinji-ikari",
+      "displayName": "Shinji Ikari",
+      "description": "A cute chibi Shinji Ikari-inspired Codex pet.",
+      "path": "shinji-ikari"
+    },
+    {
+      "id": "tetsuwan-atom",
+      "displayName": "Tetsuwan Atom",
+      "description": "A cute chibi Tetsuwan Atom-inspired Codex pet.",
+      "path": "tetsuwan-atom"
     }
   ]
 }
