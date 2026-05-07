@@ -859,6 +859,12 @@
       "displayName": "Rin Toosaka",
       "description": "A chibi twin-tail mage Codex pet inspired by Rin Toosaka.",
       "path": "rin-toosaka"
+    },
+    {
+      "id": "houtarou-oreki",
+      "displayName": "Houtarou Oreki",
+      "description": "A quiet chibi school-uniform Codex pet inspired by Houtarou Oreki.",
+      "path": "houtarou-oreki"
     }
   ]
 }
