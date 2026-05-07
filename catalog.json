@@ -913,6 +913,12 @@
       "displayName": "Koyomi Araragi",
       "description": "A chibi Koyomi Araragi-style Codex pet.",
       "path": "koyomi-araragi"
+    },
+    {
+      "id": "arataka-reigen",
+      "displayName": "Arataka Reigen",
+      "description": "A chibi Arataka Reigen-style Codex pet.",
+      "path": "arataka-reigen"
     }
   ]
 }
