@@ -883,6 +883,12 @@
       "displayName": "Emilia",
       "description": "A chibi Emilia-style Codex pet.",
       "path": "emilia"
+    },
+    {
+      "id": "kamina",
+      "displayName": "Kamina",
+      "description": "A chibi Kamina-style Codex pet.",
+      "path": "kamina"
     }
   ]
 }
