@@ -817,6 +817,12 @@
       "displayName": "Saitama",
       "description": "A bald yellow-suited chibi Saitama-inspired Codex pet.",
       "path": "saitama"
+    },
+    {
+      "id": "spike-spiegel",
+      "displayName": "Spike Spiegel",
+      "description": "A lanky chibi Spike Spiegel-inspired Codex pet.",
+      "path": "spike-spiegel"
     }
   ]
 }
