@@ -193,6 +193,24 @@
       "displayName": "Cyber Shrimp Farmer",
       "description": "A chibi Chinese/Douyin cyber shrimp farmer Codex pet with aquaculture worker meme energy.",
       "path": "cyber-shrimp-farmer"
+    },
+    {
+      "id": "luffy",
+      "displayName": "Luffy",
+      "description": "A cute chibi pixel-art pirate boy Codex pet with a straw hat, red vest, blue shorts, and cheerful rubbery energy.",
+      "path": "luffy"
+    },
+    {
+      "id": "zoro",
+      "displayName": "Zoro",
+      "description": "A cute chibi pixel-art swordsman Codex pet with moss-green hair, three tiny katanas, and sleepy confident energy.",
+      "path": "zoro"
+    },
+    {
+      "id": "chopper",
+      "displayName": "Chopper",
+      "description": "A cute chibi pixel-art reindeer doctor Codex pet with a pink hat, blue nose, tiny antlers, and shy cheerful energy.",
+      "path": "chopper"
     }
   ]
 }
