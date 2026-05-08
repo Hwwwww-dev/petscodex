@@ -1165,6 +1165,12 @@
       "displayName": "Hange Zoe",
       "description": "A chibi Hange Zoe-style scientist Codex pet.",
       "path": "hange-zoe"
+    },
+    {
+      "id": "subaru-natsuki",
+      "displayName": "Subaru Natsuki",
+      "description": "A chibi Subaru Natsuki-style determined Codex pet.",
+      "path": "subaru-natsuki"
     }
   ]
 }
