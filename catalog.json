@@ -1135,6 +1135,12 @@
       "displayName": "Soma Yukihira",
       "description": "A chibi Soma Yukihira-style Codex pet.",
       "path": "soma-yukihira"
+    },
+    {
+      "id": "hei",
+      "displayName": "Hei",
+      "description": "A chibi Hei-style Codex pet.",
+      "path": "hei"
     }
   ]
 }
