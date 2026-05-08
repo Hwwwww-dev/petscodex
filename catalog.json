@@ -1321,6 +1321,12 @@
       "displayName": "Snorlax",
       "description": "A chibi Snorlax-style Codex pet with sleepy giant cuddle energy.",
       "path": "snorlax"
+    },
+    {
+      "id": "kricketune",
+      "displayName": "Kricketune",
+      "description": "A chibi Kricketune-style Codex pet with musical bug-conductor poses.",
+      "path": "kricketune"
     }
   ]
 }
