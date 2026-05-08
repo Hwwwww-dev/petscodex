@@ -1345,6 +1345,12 @@
       "displayName": "Umbreon",
       "description": "A chibi Umbreon-style Codex pet with moonlit ring markings and quiet night energy.",
       "path": "umbreon"
+    },
+    {
+      "id": "greninja",
+      "displayName": "Greninja",
+      "description": "A chibi Greninja-style Codex pet with ninja-frog poses and a scarf-like tongue.",
+      "path": "greninja"
     }
   ]
 }
