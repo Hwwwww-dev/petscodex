@@ -1117,6 +1117,12 @@
       "displayName": "Johan Liebert",
       "description": "A chibi Johan Liebert-style Codex pet.",
       "path": "johan-liebert"
+    },
+    {
+      "id": "shoyo-hinata",
+      "displayName": "Shoyo Hinata",
+      "description": "A chibi Shoyo Hinata-style Codex pet.",
+      "path": "shoyo-hinata"
     }
   ]
 }
