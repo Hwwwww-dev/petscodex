@@ -1285,6 +1285,12 @@
       "displayName": "Dragonite",
       "description": "A chibi Dragonite-style Codex pet with friendly orange dragon charm.",
       "path": "dragonite"
+    },
+    {
+      "id": "thorfinn",
+      "displayName": "Thorfinn",
+      "description": "A chibi Thorfinn-style Codex pet.",
+      "path": "thorfinn"
     }
   ]
 }
