@@ -1297,6 +1297,12 @@
       "displayName": "Alcremie",
       "description": "A chibi Alcremie-style Codex pet with whipped-cream dessert charm.",
       "path": "alcremie"
+    },
+    {
+      "id": "fuecoco",
+      "displayName": "Fuecoco",
+      "description": "A chibi Fuecoco-style Codex pet with round fire-crocodile charm.",
+      "path": "fuecoco"
     }
   ]
 }
