@@ -1471,6 +1471,12 @@
       "displayName": "Psyduck",
       "description": "A chibi Psyduck-style Codex pet with confused headache poses.",
       "path": "psyduck"
+    },
+    {
+      "id": "ditto",
+      "displayName": "Ditto",
+      "description": "A chibi Ditto-style Codex pet with squishy transforming charm.",
+      "path": "ditto"
     }
   ]
 }
