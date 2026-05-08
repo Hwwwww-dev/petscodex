@@ -1363,6 +1363,12 @@
       "displayName": "Gyarados",
       "description": "A chibi Gyarados-style Codex pet with dramatic water-dragon poses.",
       "path": "gyarados"
+    },
+    {
+      "id": "mew",
+      "displayName": "Mew",
+      "description": "A chibi Mew-style Codex pet with playful psychic floating poses.",
+      "path": "mew"
     }
   ]
 }
