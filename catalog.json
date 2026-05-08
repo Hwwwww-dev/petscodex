@@ -1273,6 +1273,12 @@
       "displayName": "Tinkaton",
       "description": "A chibi Tinkaton-style Codex pet with a huge toy hammer and playful maker energy.",
       "path": "tinkaton"
+    },
+    {
+      "id": "nezuko-kamado",
+      "displayName": "Nezuko Kamado",
+      "description": "A cute chibi pixel-art girl Codex pet with long dark orange-tipped hair, a pink kimono, and a light wood mouthpiece.",
+      "path": "nezuko-kamado"
     }
   ]
 }
