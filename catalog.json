@@ -1039,6 +1039,12 @@
       "displayName": "Yukino Yukinoshita",
       "description": "A chibi Yukino Yukinoshita-style Codex pet.",
       "path": "yukino-yukinoshita"
+    },
+    {
+      "id": "chika-fujiwara",
+      "displayName": "Chika Fujiwara",
+      "description": "A chibi Chika Fujiwara-style Codex pet.",
+      "path": "chika-fujiwara"
     }
   ]
 }
