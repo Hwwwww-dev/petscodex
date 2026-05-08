@@ -1447,6 +1447,12 @@
       "displayName": "Absol",
       "description": "A chibi Absol-style Codex pet with elegant disaster-sensing guardian charm.",
       "path": "absol"
+    },
+    {
+      "id": "meloetta",
+      "displayName": "Meloetta",
+      "description": "A chibi Meloetta-style Codex pet with musical fairy-pop poses.",
+      "path": "meloetta"
     }
   ]
 }
