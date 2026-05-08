@@ -1375,6 +1375,12 @@
       "displayName": "Gardevoir",
       "description": "A chibi Gardevoir-style Codex pet with graceful psychic-fairy poses.",
       "path": "gardevoir"
+    },
+    {
+      "id": "chandelure",
+      "displayName": "Chandelure",
+      "description": "A chibi Chandelure-style Codex pet with ghostly lantern-flame charm.",
+      "path": "chandelure"
     }
   ]
 }
