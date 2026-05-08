@@ -1339,6 +1339,12 @@
       "displayName": "Quaxly",
       "description": "A chibi Quaxly-style Codex pet with tidy duckling sailor flair.",
       "path": "quaxly"
+    },
+    {
+      "id": "umbreon",
+      "displayName": "Umbreon",
+      "description": "A chibi Umbreon-style Codex pet with moonlit ring markings and quiet night energy.",
+      "path": "umbreon"
     }
   ]
 }
