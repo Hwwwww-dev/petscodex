@@ -1087,6 +1087,12 @@
       "displayName": "Itsuki Nakano",
       "description": "A chibi red-haired schoolgirl Codex pet.",
       "path": "itsuki-nakano"
+    },
+    {
+      "id": "erza-scarlet",
+      "displayName": "Erza Scarlet",
+      "description": "A chibi scarlet-haired swordswoman Codex pet.",
+      "path": "erza-scarlet"
     }
   ]
 }
