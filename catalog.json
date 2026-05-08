@@ -1387,6 +1387,12 @@
       "displayName": "Sylveon",
       "description": "A chibi Sylveon-style Codex pet with ribbon feelers and fairy charm.",
       "path": "sylveon"
+    },
+    {
+      "id": "lucario",
+      "displayName": "Lucario",
+      "description": "A chibi Lucario-style Codex pet with aura-fighter energy.",
+      "path": "lucario"
     }
   ]
 }
