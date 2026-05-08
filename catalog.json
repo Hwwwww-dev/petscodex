@@ -1123,6 +1123,12 @@
       "displayName": "Shoyo Hinata",
       "description": "A chibi Shoyo Hinata-style Codex pet.",
       "path": "shoyo-hinata"
+    },
+    {
+      "id": "mikoto-misaka",
+      "displayName": "Mikoto Misaka",
+      "description": "A chibi Mikoto Misaka-style Codex pet.",
+      "path": "mikoto-misaka"
     }
   ]
 }
