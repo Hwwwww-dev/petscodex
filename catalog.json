@@ -1429,6 +1429,12 @@
       "displayName": "Zeraora",
       "description": "A chibi Zeraora-style Codex pet with electric feline fighter energy.",
       "path": "zeraora"
+    },
+    {
+      "id": "genesect",
+      "displayName": "Genesect",
+      "description": "A chibi Genesect-style Codex pet with techno-bug cannon poses.",
+      "path": "genesect"
     }
   ]
 }
