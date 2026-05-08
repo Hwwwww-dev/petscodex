@@ -1231,6 +1231,12 @@
       "displayName": "Yuu Ishigami",
       "description": "A cute chibi pixel-art reserved high-school Codex pet with messy dark hair and a black school uniform.",
       "path": "yuu-ishigami"
+    },
+    {
+      "id": "tohru-honda",
+      "displayName": "Tohru Honda",
+      "description": "A chibi Tohru Honda-inspired Codex pet.",
+      "path": "tohru-honda"
     }
   ]
 }
