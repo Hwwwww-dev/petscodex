@@ -1201,6 +1201,12 @@
       "displayName": "Toji Fushiguro",
       "description": "A chibi stoic fighter Codex pet.",
       "path": "toji-fushiguro"
+    },
+    {
+      "id": "suguru-geto",
+      "displayName": "Suguru Geto",
+      "description": "A chibi dark-robed sorcerer Codex pet.",
+      "path": "suguru-geto"
     }
   ]
 }
