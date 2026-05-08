@@ -973,6 +973,12 @@
       "displayName": "Kaori Miyazono",
       "description": "A chibi Kaori Miyazono-style Codex pet.",
       "path": "kaori-miyazono"
+    },
+    {
+      "id": "erwin-smith",
+      "displayName": "Erwin Smith",
+      "description": "A chibi Erwin Smith-style Codex pet.",
+      "path": "erwin-smith"
     }
   ]
 }
