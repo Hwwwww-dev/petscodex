@@ -1093,6 +1093,12 @@
       "displayName": "Erza Scarlet",
       "description": "A chibi scarlet-haired swordswoman Codex pet.",
       "path": "erza-scarlet"
+    },
+    {
+      "id": "rias-gremory",
+      "displayName": "Rias Gremory",
+      "description": "A chibi crimson-haired noble schoolgirl Codex pet.",
+      "path": "rias-gremory"
     }
   ]
 }
