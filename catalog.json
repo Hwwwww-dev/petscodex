@@ -1111,6 +1111,12 @@
       "displayName": "Kurumi Tokisaki",
       "description": "A chibi Kurumi Tokisaki-style Codex pet.",
       "path": "kurumi-tokisaki"
+    },
+    {
+      "id": "johan-liebert",
+      "displayName": "Johan Liebert",
+      "description": "A chibi Johan Liebert-style Codex pet.",
+      "path": "johan-liebert"
     }
   ]
 }
