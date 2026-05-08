@@ -1309,6 +1309,12 @@
       "displayName": "Byakuya Kuchiki",
       "description": "A chibi Byakuya Kuchiki-style Codex pet.",
       "path": "byakuya-kuchiki"
+    },
+    {
+      "id": "mimikyu",
+      "displayName": "Mimikyu",
+      "description": "A chibi Mimikyu-style Codex pet with shy disguise-cloak charm.",
+      "path": "mimikyu"
     }
   ]
 }
