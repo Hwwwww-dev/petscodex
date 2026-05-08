@@ -1171,6 +1171,12 @@
       "displayName": "Subaru Natsuki",
       "description": "A chibi Subaru Natsuki-style determined Codex pet.",
       "path": "subaru-natsuki"
+    },
+    {
+      "id": "maomao",
+      "displayName": "Maomao",
+      "description": "A chibi Maomao-style apothecary Codex pet.",
+      "path": "maomao"
     }
   ]
 }
