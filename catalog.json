@@ -1183,6 +1183,12 @@
       "displayName": "Denji",
       "description": "A chibi Denji-style chainsaw hero Codex pet.",
       "path": "denji"
+    },
+    {
+      "id": "zenitsu-agatsuma",
+      "displayName": "Zenitsu Agatsuma",
+      "description": "A chibi thunder swordsman Codex pet.",
+      "path": "zenitsu-agatsuma"
     }
   ]
 }
