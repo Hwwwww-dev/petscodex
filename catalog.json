@@ -1129,6 +1129,12 @@
       "displayName": "Mikoto Misaka",
       "description": "A chibi Mikoto Misaka-style Codex pet.",
       "path": "mikoto-misaka"
+    },
+    {
+      "id": "soma-yukihira",
+      "displayName": "Soma Yukihira",
+      "description": "A chibi Soma Yukihira-style Codex pet.",
+      "path": "soma-yukihira"
     }
   ]
 }
