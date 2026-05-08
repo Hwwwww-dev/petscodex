@@ -1027,6 +1027,12 @@
       "displayName": "Jotaro Kujo",
       "description": "A chibi Jotaro Kujo-style Codex pet.",
       "path": "jotaro-kujo"
+    },
+    {
+      "id": "sebastian-michaelis",
+      "displayName": "Sebastian Michaelis",
+      "description": "A chibi Sebastian Michaelis-style Codex pet.",
+      "path": "sebastian-michaelis"
     }
   ]
 }
