@@ -1069,6 +1069,12 @@
       "displayName": "Revy",
       "description": "A chibi Revy-style Codex pet.",
       "path": "revy"
+    },
+    {
+      "id": "armin-arlert",
+      "displayName": "Armin Arlert",
+      "description": "A chibi blond strategist Codex pet.",
+      "path": "armin-arlert"
     }
   ]
 }
