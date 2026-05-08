@@ -1045,6 +1045,12 @@
       "displayName": "Chika Fujiwara",
       "description": "A chibi Chika Fujiwara-style Codex pet.",
       "path": "chika-fujiwara"
+    },
+    {
+      "id": "kurapika",
+      "displayName": "Kurapika",
+      "description": "A chibi Kurapika-style Codex pet.",
+      "path": "kurapika"
     }
   ]
 }
