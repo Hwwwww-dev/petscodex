@@ -1333,6 +1333,12 @@
       "displayName": "Squirtle",
       "description": "A chibi Squirtle-style Codex pet with tiny shell and bubbly water poses.",
       "path": "squirtle"
+    },
+    {
+      "id": "quaxly",
+      "displayName": "Quaxly",
+      "description": "A chibi Quaxly-style Codex pet with tidy duckling sailor flair.",
+      "path": "quaxly"
     }
   ]
 }
