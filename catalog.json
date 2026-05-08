@@ -1417,6 +1417,12 @@
       "displayName": "Celebi",
       "description": "A chibi Celebi-style Codex pet with forest time-fairy charm.",
       "path": "celebi"
+    },
+    {
+      "id": "dialga",
+      "displayName": "Dialga",
+      "description": "A chibi Dialga-style Codex pet with time-dragon steel majesty.",
+      "path": "dialga"
     }
   ]
 }
