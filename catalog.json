@@ -1219,6 +1219,12 @@
       "displayName": "Power",
       "description": "A chibi Power-style mischievous Codex pet.",
       "path": "power"
+    },
+    {
+      "id": "nobara-kugisaki",
+      "displayName": "Nobara Kugisaki",
+      "description": "A chibi Nobara Kugisaki-inspired Codex pet.",
+      "path": "nobara-kugisaki"
     }
   ]
 }
