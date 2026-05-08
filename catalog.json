@@ -1015,6 +1015,12 @@
       "displayName": "Koro-sensei",
       "description": "A chibi Koro-sensei-style Codex pet.",
       "path": "koro-sensei"
+    },
+    {
+      "id": "yato",
+      "displayName": "Yato",
+      "description": "A chibi Yato-style Codex pet.",
+      "path": "yato"
     }
   ]
 }
