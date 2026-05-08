@@ -1411,6 +1411,12 @@
       "displayName": "Eevee",
       "description": "A chibi Eevee-style Codex pet with fluffy collar and cheerful fox-like poses.",
       "path": "eevee"
+    },
+    {
+      "id": "celebi",
+      "displayName": "Celebi",
+      "description": "A chibi Celebi-style Codex pet with forest time-fairy charm.",
+      "path": "celebi"
     }
   ]
 }
