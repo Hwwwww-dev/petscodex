@@ -1021,6 +1021,12 @@
       "displayName": "Yato",
       "description": "A chibi Yato-style Codex pet.",
       "path": "yato"
+    },
+    {
+      "id": "jotaro-kujo",
+      "displayName": "Jotaro Kujo",
+      "description": "A chibi Jotaro Kujo-style Codex pet.",
+      "path": "jotaro-kujo"
     }
   ]
 }
