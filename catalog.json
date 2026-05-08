@@ -979,6 +979,12 @@
       "displayName": "Erwin Smith",
       "description": "A chibi Erwin Smith-style Codex pet.",
       "path": "erwin-smith"
+    },
+    {
+      "id": "homura-akemi",
+      "displayName": "Homura Akemi",
+      "description": "A chibi Homura Akemi-style Codex pet.",
+      "path": "homura-akemi"
     }
   ]
 }
