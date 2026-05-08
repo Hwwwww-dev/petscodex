@@ -991,6 +991,12 @@
       "displayName": "Kiyotaka Ayanokoji",
       "description": "A chibi Kiyotaka Ayanokoji-style Codex pet.",
       "path": "kiyotaka-ayanokoji"
+    },
+    {
+      "id": "askeladd",
+      "displayName": "Askeladd",
+      "description": "A chibi Askeladd-style Codex pet.",
+      "path": "askeladd"
     }
   ]
 }
