@@ -1105,6 +1105,12 @@
       "displayName": "Rimuru Tempest",
       "description": "A chibi Rimuru Tempest-style Codex pet.",
       "path": "rimuru-tempest"
+    },
+    {
+      "id": "kurumi-tokisaki",
+      "displayName": "Kurumi Tokisaki",
+      "description": "A chibi Kurumi Tokisaki-style Codex pet.",
+      "path": "kurumi-tokisaki"
     }
   ]
 }
