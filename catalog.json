@@ -1453,6 +1453,12 @@
       "displayName": "Meloetta",
       "description": "A chibi Meloetta-style Codex pet with musical fairy-pop poses.",
       "path": "meloetta"
+    },
+    {
+      "id": "starmie",
+      "displayName": "Starmie",
+      "description": "A chibi Starmie-style Codex pet with gem-star aquatic charm.",
+      "path": "starmie"
     }
   ]
 }
