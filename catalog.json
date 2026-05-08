@@ -1435,6 +1435,12 @@
       "displayName": "Genesect",
       "description": "A chibi Genesect-style Codex pet with techno-bug cannon poses.",
       "path": "genesect"
+    },
+    {
+      "id": "gengar",
+      "displayName": "Gengar",
+      "description": "A chibi Gengar-style Codex pet with mischievous ghostly grin.",
+      "path": "gengar"
     }
   ]
 }
