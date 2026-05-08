@@ -997,6 +997,12 @@
       "displayName": "Askeladd",
       "description": "A chibi Askeladd-style Codex pet.",
       "path": "askeladd"
+    },
+    {
+      "id": "kazuma-satou",
+      "displayName": "Kazuma Satou",
+      "description": "A chibi Kazuma Satou-style Codex pet.",
+      "path": "kazuma-satou"
     }
   ]
 }
