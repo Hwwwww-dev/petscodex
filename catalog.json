@@ -1483,6 +1483,90 @@
       "displayName": "Hawlucha",
       "description": "A chibi Hawlucha-inspired wrestling hawk Codex pet.",
       "path": "hawlucha"
+    },
+    {
+      "id": "artoria-pendragon",
+      "displayName": "Artoria Pendragon",
+      "description": "A cute chibi Artoria Pendragon-style Codex pet with blonde ahoge hair, blue battle dress, tiny silver sword, and noble knight energy.",
+      "path": "artoria-pendragon"
+    },
+    {
+      "id": "shirou-emiya",
+      "displayName": "Shirou Emiya",
+      "description": "A cute chibi Shirou Emiya-style Codex pet with auburn hair, casual mage outfit, projected twin blades, and earnest hero energy.",
+      "path": "shirou-emiya"
+    },
+    {
+      "id": "rin-tohsaka",
+      "displayName": "Rin Tohsaka",
+      "description": "A cute chibi Rin Tohsaka-style Codex pet with twin-tail black hair, red top, black skirt, jewel magic, and confident tsundere charm.",
+      "path": "rin-tohsaka"
+    },
+    {
+      "id": "sakura-matou",
+      "displayName": "Sakura Matou",
+      "description": "A cute chibi Sakura Matou-style Codex pet with violet hair, soft school outfit, ribbon details, and gentle magical energy.",
+      "path": "sakura-matou"
+    },
+    {
+      "id": "gilgamesh",
+      "displayName": "Gilgamesh",
+      "description": "A cute chibi Gilgamesh-style Codex pet with golden armor, blond hair, tiny gate-of-treasures poses, and regal smug energy.",
+      "path": "gilgamesh"
+    },
+    {
+      "id": "kirei-kotomine",
+      "displayName": "Kirei Kotomine",
+      "description": "A cute chibi Kirei Kotomine-style Codex pet with dark priest robes, cross details, martial-arts poses, and ominous calm energy.",
+      "path": "kirei-kotomine"
+    },
+    {
+      "id": "kiritsugu-emiya",
+      "displayName": "Kiritsugu Emiya",
+      "description": "A cute chibi Kiritsugu Emiya-style Codex pet with black coat, tousled dark hair, tiny magecraft tools, and brooding tactician energy.",
+      "path": "kiritsugu-emiya"
+    },
+    {
+      "id": "iskandar",
+      "displayName": "Iskandar",
+      "description": "A cute chibi Iskandar-style Codex pet with red hair, royal cloak, tiny sword, triumphant kingly poses, and bold conqueror energy.",
+      "path": "iskandar"
+    },
+    {
+      "id": "jeanne-darc",
+      "displayName": "Jeanne d'Arc",
+      "description": "A cute chibi Jeanne d'Arc-style Codex pet with silver-blonde braid, white-and-blue armor dress, tiny banner, and saintly heroic energy.",
+      "path": "jeanne-darc"
+    },
+    {
+      "id": "nero-claudius",
+      "displayName": "Nero Claudius",
+      "description": "A cute chibi Nero Claudius-style Codex pet with blonde hair, red imperial dress, tiny sword, theatrical poses, and radiant emperor charm.",
+      "path": "nero-claudius"
+    },
+    {
+      "id": "mash-kyrielight",
+      "displayName": "Mash Kyrielight",
+      "description": "A cute chibi Mash Kyrielight-style Codex pet with lavender bob hair, black-and-purple armor, tiny shield poses, and loyal kouhai energy.",
+      "path": "mash-kyrielight"
+    },
+    {
+      "id": "illyasviel-von-einzbern",
+      "displayName": "Illyasviel von Einzbern",
+      "description": "A cute chibi Illyasviel von Einzbern-style Codex pet with snowy hair, burgundy eyes, winter dress, magical spark poses, and innocent noble charm.",
+      "path": "illyasviel-von-einzbern"
+    },
+    {
+      "id": "cu-chulainn",
+      "displayName": "Cu Chulainn",
+      "description": "A cute chibi Cu Chulainn-style Codex pet with blue hair, fitted blue armor, tiny red spear, and agile lancer energy.",
+      "path": "cu-chulainn"
+    },
+    {
+      "id": "medusa",
+      "displayName": "Medusa",
+      "description": "A cute chibi Medusa-style Codex pet with long purple hair, dark visor, chain-and-dagger poses, and mysterious rider energy.",
+      "path": "medusa"
     }
   ]
 }
