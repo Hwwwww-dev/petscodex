@@ -1381,6 +1381,12 @@
       "displayName": "Chandelure",
       "description": "A chibi Chandelure-style Codex pet with ghostly lantern-flame charm.",
       "path": "chandelure"
+    },
+    {
+      "id": "sylveon",
+      "displayName": "Sylveon",
+      "description": "A chibi Sylveon-style Codex pet with ribbon feelers and fairy charm.",
+      "path": "sylveon"
     }
   ]
 }
