@@ -1081,6 +1081,12 @@
       "displayName": "Senku Ishigami",
       "description": "A chibi science genius Codex pet.",
       "path": "senku-ishigami"
+    },
+    {
+      "id": "itsuki-nakano",
+      "displayName": "Itsuki Nakano",
+      "description": "A chibi red-haired schoolgirl Codex pet.",
+      "path": "itsuki-nakano"
     }
   ]
 }
