@@ -985,6 +985,12 @@
       "displayName": "Tanjiro Kamado",
       "description": "A chibi Tanjiro Kamado-style Codex pet.",
       "path": "tanjiro-kamado"
+    },
+    {
+      "id": "kiyotaka-ayanokoji",
+      "displayName": "Kiyotaka Ayanokoji",
+      "description": "A chibi Kiyotaka Ayanokoji-style Codex pet.",
+      "path": "kiyotaka-ayanokoji"
     }
   ]
 }
