@@ -1465,6 +1465,12 @@
       "displayName": "Metagross",
       "description": "A chibi Metagross-style Codex pet with sturdy steel-psychic energy.",
       "path": "metagross"
+    },
+    {
+      "id": "psyduck",
+      "displayName": "Psyduck",
+      "description": "A chibi Psyduck-style Codex pet with confused headache poses.",
+      "path": "psyduck"
     }
   ]
 }
