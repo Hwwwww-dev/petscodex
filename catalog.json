@@ -1351,6 +1351,12 @@
       "displayName": "Greninja",
       "description": "A chibi Greninja-style Codex pet with ninja-frog poses and a scarf-like tongue.",
       "path": "greninja"
+    },
+    {
+      "id": "pawmi",
+      "displayName": "Pawmi",
+      "description": "A chibi Pawmi-style Codex pet with tiny electric paws and cheerful energy.",
+      "path": "pawmi"
     }
   ]
 }
