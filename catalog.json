@@ -1195,6 +1195,12 @@
       "displayName": "Inosuke Hashibira",
       "description": "A chibi wild boar-mask fighter Codex pet.",
       "path": "inosuke-hashibira"
+    },
+    {
+      "id": "toji-fushiguro",
+      "displayName": "Toji Fushiguro",
+      "description": "A chibi stoic fighter Codex pet.",
+      "path": "toji-fushiguro"
     }
   ]
 }
