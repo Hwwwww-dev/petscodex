@@ -1459,6 +1459,12 @@
       "displayName": "Starmie",
       "description": "A chibi Starmie-style Codex pet with gem-star aquatic charm.",
       "path": "starmie"
+    },
+    {
+      "id": "metagross",
+      "displayName": "Metagross",
+      "description": "A chibi Metagross-style Codex pet with sturdy steel-psychic energy.",
+      "path": "metagross"
     }
   ]
 }
