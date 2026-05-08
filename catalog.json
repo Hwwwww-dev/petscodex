@@ -973,6 +973,12 @@
       "displayName": "Homura Akemi",
       "description": "A chibi Homura Akemi-style Codex pet.",
       "path": "homura-akemi"
+    },
+    {
+      "id": "takumi-usui",
+      "displayName": "Takumi Usui",
+      "description": "A chibi Takumi Usui-style Codex pet.",
+      "path": "takumi-usui"
     }
   ]
 }
