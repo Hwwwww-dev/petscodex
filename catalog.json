@@ -1405,6 +1405,12 @@
       "displayName": "Heatran",
       "description": "A chibi Heatran-style Codex pet with volcanic steel-fire charm.",
       "path": "heatran"
+    },
+    {
+      "id": "eevee",
+      "displayName": "Eevee",
+      "description": "A chibi Eevee-style Codex pet with fluffy collar and cheerful fox-like poses.",
+      "path": "eevee"
     }
   ]
 }
