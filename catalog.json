@@ -1357,6 +1357,12 @@
       "displayName": "Pawmi",
       "description": "A chibi Pawmi-style Codex pet with tiny electric paws and cheerful energy.",
       "path": "pawmi"
+    },
+    {
+      "id": "gyarados",
+      "displayName": "Gyarados",
+      "description": "A chibi Gyarados-style Codex pet with dramatic water-dragon poses.",
+      "path": "gyarados"
     }
   ]
 }
