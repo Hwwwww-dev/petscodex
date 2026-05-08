@@ -1477,6 +1477,12 @@
       "displayName": "Ditto",
       "description": "A chibi Ditto-style Codex pet with squishy transforming charm.",
       "path": "ditto"
+    },
+    {
+      "id": "hawlucha",
+      "displayName": "Hawlucha",
+      "description": "A chibi Hawlucha-inspired wrestling hawk Codex pet.",
+      "path": "hawlucha"
     }
   ]
 }
