@@ -1315,6 +1315,12 @@
       "displayName": "Mimikyu",
       "description": "A chibi Mimikyu-style Codex pet with shy disguise-cloak charm.",
       "path": "mimikyu"
+    },
+    {
+      "id": "snorlax",
+      "displayName": "Snorlax",
+      "description": "A chibi Snorlax-style Codex pet with sleepy giant cuddle energy.",
+      "path": "snorlax"
     }
   ]
 }
