@@ -1051,6 +1051,12 @@
       "displayName": "Kurapika",
       "description": "A chibi Kurapika-style Codex pet.",
       "path": "kurapika"
+    },
+    {
+      "id": "kaguya-shinomiya",
+      "displayName": "Kaguya Shinomiya",
+      "description": "A chibi Kaguya Shinomiya-style Codex pet.",
+      "path": "kaguya-shinomiya"
     }
   ]
 }
