@@ -1003,6 +1003,12 @@
       "displayName": "Kazuma Satou",
       "description": "A chibi Kazuma Satou-style Codex pet.",
       "path": "kazuma-satou"
+    },
+    {
+      "id": "rikka-takanashi",
+      "displayName": "Rikka Takanashi",
+      "description": "A chibi Rikka Takanashi-style Codex pet.",
+      "path": "rikka-takanashi"
     }
   ]
 }
