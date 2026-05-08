@@ -1207,6 +1207,12 @@
       "displayName": "Suguru Geto",
       "description": "A chibi dark-robed sorcerer Codex pet.",
       "path": "suguru-geto"
+    },
+    {
+      "id": "yuji-itadori",
+      "displayName": "Yuji Itadori",
+      "description": "A chibi energetic pink-haired fighter Codex pet.",
+      "path": "yuji-itadori"
     }
   ]
 }
