@@ -1279,6 +1279,12 @@
       "displayName": "Nezuko Kamado",
       "description": "A cute chibi pixel-art girl Codex pet with long dark orange-tipped hair, a pink kimono, and a light wood mouthpiece.",
       "path": "nezuko-kamado"
+    },
+    {
+      "id": "dragonite",
+      "displayName": "Dragonite",
+      "description": "A chibi Dragonite-style Codex pet with friendly orange dragon charm.",
+      "path": "dragonite"
     }
   ]
 }
