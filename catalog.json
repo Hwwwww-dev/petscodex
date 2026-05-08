@@ -1177,6 +1177,12 @@
       "displayName": "Maomao",
       "description": "A chibi Maomao-style apothecary Codex pet.",
       "path": "maomao"
+    },
+    {
+      "id": "denji",
+      "displayName": "Denji",
+      "description": "A chibi Denji-style chainsaw hero Codex pet.",
+      "path": "denji"
     }
   ]
 }
