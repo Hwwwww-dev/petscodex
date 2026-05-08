@@ -1159,6 +1159,12 @@
       "displayName": "Mashiro Shiina",
       "description": "A chibi Mashiro Shiina-style Codex pet.",
       "path": "mashiro-shiina"
+    },
+    {
+      "id": "hange-zoe",
+      "displayName": "Hange Zoe",
+      "description": "A chibi Hange Zoe-style scientist Codex pet.",
+      "path": "hange-zoe"
     }
   ]
 }
