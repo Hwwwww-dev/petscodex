@@ -1075,6 +1075,12 @@
       "displayName": "Armin Arlert",
       "description": "A chibi blond strategist Codex pet.",
       "path": "armin-arlert"
+    },
+    {
+      "id": "senku-ishigami",
+      "displayName": "Senku Ishigami",
+      "description": "A chibi science genius Codex pet.",
+      "path": "senku-ishigami"
     }
   ]
 }
