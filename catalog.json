@@ -1267,6 +1267,12 @@
       "displayName": "Shinji Hirako",
       "description": "A chibi Shinji Hirako-inspired Codex pet.",
       "path": "shinji-hirako"
+    },
+    {
+      "id": "tinkaton",
+      "displayName": "Tinkaton",
+      "description": "A chibi Tinkaton-style Codex pet with a huge toy hammer and playful maker energy.",
+      "path": "tinkaton"
     }
   ]
 }
