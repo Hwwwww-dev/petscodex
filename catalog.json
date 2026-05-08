@@ -1063,6 +1063,12 @@
       "displayName": "Kusuo Saiki",
       "description": "A chibi Kusuo Saiki-style Codex pet.",
       "path": "kusuo-saiki"
+    },
+    {
+      "id": "revy",
+      "displayName": "Revy",
+      "description": "A chibi Revy-style Codex pet.",
+      "path": "revy"
     }
   ]
 }
