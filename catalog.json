@@ -1393,6 +1393,12 @@
       "displayName": "Lucario",
       "description": "A chibi Lucario-style Codex pet with aura-fighter energy.",
       "path": "lucario"
+    },
+    {
+      "id": "suicune",
+      "displayName": "Suicune",
+      "description": "A chibi Suicune-style Codex pet with graceful aurora-water energy.",
+      "path": "suicune"
     }
   ]
 }
