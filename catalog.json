@@ -1009,6 +1009,12 @@
       "displayName": "Rikka Takanashi",
       "description": "A chibi Rikka Takanashi-style Codex pet.",
       "path": "rikka-takanashi"
+    },
+    {
+      "id": "koro-sensei",
+      "displayName": "Koro-sensei",
+      "description": "A chibi Koro-sensei-style Codex pet.",
+      "path": "koro-sensei"
     }
   ]
 }
