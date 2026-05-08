@@ -1033,6 +1033,12 @@
       "displayName": "Sebastian Michaelis",
       "description": "A chibi Sebastian Michaelis-style Codex pet.",
       "path": "sebastian-michaelis"
+    },
+    {
+      "id": "yukino-yukinoshita",
+      "displayName": "Yukino Yukinoshita",
+      "description": "A chibi Yukino Yukinoshita-style Codex pet.",
+      "path": "yukino-yukinoshita"
     }
   ]
 }
