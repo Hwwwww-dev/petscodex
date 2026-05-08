@@ -1153,6 +1153,12 @@
       "displayName": "Trafalgar Law",
       "description": "A chibi Trafalgar Law-style Codex pet.",
       "path": "trafalgar-law"
+    },
+    {
+      "id": "mashiro-shiina",
+      "displayName": "Mashiro Shiina",
+      "description": "A chibi Mashiro Shiina-style Codex pet.",
+      "path": "mashiro-shiina"
     }
   ]
 }
