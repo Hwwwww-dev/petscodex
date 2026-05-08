@@ -1399,6 +1399,12 @@
       "displayName": "Suicune",
       "description": "A chibi Suicune-style Codex pet with graceful aurora-water energy.",
       "path": "suicune"
+    },
+    {
+      "id": "heatran",
+      "displayName": "Heatran",
+      "description": "A chibi Heatran-style Codex pet with volcanic steel-fire charm.",
+      "path": "heatran"
     }
   ]
 }
