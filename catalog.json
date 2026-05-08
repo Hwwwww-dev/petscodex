@@ -1141,6 +1141,12 @@
       "displayName": "Hei",
       "description": "A chibi Hei-style Codex pet.",
       "path": "hei"
+    },
+    {
+      "id": "shizuo-heiwajima",
+      "displayName": "Shizuo Heiwajima",
+      "description": "A chibi Shizuo Heiwajima-style Codex pet.",
+      "path": "shizuo-heiwajima"
     }
   ]
 }
