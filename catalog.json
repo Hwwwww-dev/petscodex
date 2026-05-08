@@ -1291,6 +1291,12 @@
       "displayName": "Thorfinn",
       "description": "A chibi Thorfinn-style Codex pet.",
       "path": "thorfinn"
+    },
+    {
+      "id": "alcremie",
+      "displayName": "Alcremie",
+      "description": "A chibi Alcremie-style Codex pet with whipped-cream dessert charm.",
+      "path": "alcremie"
     }
   ]
 }
