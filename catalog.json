@@ -1303,6 +1303,12 @@
       "displayName": "Fuecoco",
       "description": "A chibi Fuecoco-style Codex pet with round fire-crocodile charm.",
       "path": "fuecoco"
+    },
+    {
+      "id": "byakuya-kuchiki",
+      "displayName": "Byakuya Kuchiki",
+      "description": "A chibi Byakuya Kuchiki-style Codex pet.",
+      "path": "byakuya-kuchiki"
     }
   ]
 }
