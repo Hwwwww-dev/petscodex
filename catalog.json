@@ -1423,6 +1423,12 @@
       "displayName": "Dialga",
       "description": "A chibi Dialga-style Codex pet with time-dragon steel majesty.",
       "path": "dialga"
+    },
+    {
+      "id": "zeraora",
+      "displayName": "Zeraora",
+      "description": "A chibi Zeraora-style Codex pet with electric feline fighter energy.",
+      "path": "zeraora"
     }
   ]
 }
