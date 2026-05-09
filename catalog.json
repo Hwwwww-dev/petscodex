@@ -51,6 +51,60 @@
       "path": "sunwukong"
     },
     {
+      "id": "sun-haven-shang",
+      "displayName": "Shang",
+      "description": "An honorable tiger swordsman Sun Haven-style Codex pet with disciplined warrior poses.",
+      "path": "sun-haven-shang"
+    },
+    {
+      "id": "sun-haven-darius",
+      "displayName": "Darius",
+      "description": "A cocky demon-prince Sun Haven-style Codex pet with regal party energy.",
+      "path": "sun-haven-darius"
+    },
+    {
+      "id": "sun-haven-miyeon",
+      "displayName": "Miyeon",
+      "description": "A shy angelic Sun Haven-style Codex pet with soft wings and gentle charm.",
+      "path": "sun-haven-miyeon"
+    },
+    {
+      "id": "sun-haven-jun",
+      "displayName": "Jun",
+      "description": "A warm teacher and counselor Sun Haven-style Codex pet with gentle creative energy.",
+      "path": "sun-haven-jun"
+    },
+    {
+      "id": "sun-haven-catherine",
+      "displayName": "Catherine",
+      "description": "A chibi Sun Haven-style Codex pet with rabbit witch potion-and-seed magic.",
+      "path": "sun-haven-catherine"
+    },
+    {
+      "id": "sun-haven-vivi",
+      "displayName": "Vivi",
+      "description": "A spunky squirrel bounty hunter Sun Haven-style Codex pet with nimble dagger poses.",
+      "path": "sun-haven-vivi"
+    },
+    {
+      "id": "sun-haven-anne",
+      "displayName": "Anne",
+      "description": "A confident merchant queen Sun Haven-style Codex pet with bright traveling-shop charm.",
+      "path": "sun-haven-anne"
+    },
+    {
+      "id": "sun-haven-wesley",
+      "displayName": "Wesley",
+      "description": "A serious elven historian Sun Haven-style Codex pet with scrolls and forest tradition charm.",
+      "path": "sun-haven-wesley"
+    },
+    {
+      "id": "sun-haven-bloom",
+      "displayName": "Bloom",
+      "description": "A cute Sun Haven-style Codex pet blooming with spring fairy charm.",
+      "path": "sun-haven-bloom"
+    },
+    {
       "id": "anime-burnout",
       "displayName": "Anime Burnout",
       "description": "A dead-fish-eye chibi office programmer Codex pet running on coffee and unresolved tickets.",
