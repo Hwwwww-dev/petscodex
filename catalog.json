@@ -1633,6 +1633,54 @@
       "displayName": "Dario",
       "description": "Call dario he is a pet",
       "path": "dario"
+    },
+    {
+      "id": "tom-cruise",
+      "displayName": "Tom Cruise",
+      "description": "A cute chibi anime Tom Cruise-inspired international movie star Codex pet with energetic action-star charm.",
+      "path": "tom-cruise"
+    },
+    {
+      "id": "jackie-chan",
+      "displayName": "Jackie Chan",
+      "description": "A cute chibi anime Jackie Chan-inspired international movie star Codex pet with playful action-comedy charm.",
+      "path": "jackie-chan"
+    },
+    {
+      "id": "keanu-reeves",
+      "displayName": "Keanu Reeves",
+      "description": "A cute chibi anime Keanu Reeves-inspired international movie star Codex pet with calm action-star charm.",
+      "path": "keanu-reeves"
+    },
+    {
+      "id": "brad-pitt",
+      "displayName": "Brad Pitt",
+      "description": "A cute chibi anime Brad Pitt-inspired international movie star Codex pet with laid-back red-carpet charm.",
+      "path": "brad-pitt"
+    },
+    {
+      "id": "leonardo-dicaprio",
+      "displayName": "Leonardo DiCaprio",
+      "description": "A cute chibi anime Leonardo DiCaprio-inspired international movie star Codex pet with polished red-carpet actor charm, side-part blond-brown hair, expressive dramatic poses, and no movie-character costume or logos.",
+      "path": "leonardo-dicaprio"
+    },
+    {
+      "id": "natalie-portman",
+      "displayName": "Natalie Portman",
+      "description": "A cute chibi anime Natalie Portman-inspired international movie star Codex pet with elegant brunette look, graceful dramatic poses, and no movie-character costume or logos.",
+      "path": "natalie-portman"
+    },
+    {
+      "id": "morgan-freeman",
+      "displayName": "Morgan Freeman",
+      "description": "A cute chibi anime Morgan Freeman-inspired international movie star Codex pet with silver hair, warm dignified smile, narrator-like calm gestures, and no movie-character costume or logos.",
+      "path": "morgan-freeman"
+    },
+    {
+      "id": "emma-stone",
+      "displayName": "Emma Stone",
+      "description": "A cute chibi anime Emma Stone-inspired international movie star Codex pet with red hair, bright expressive smile, and playful award-show poses.",
+      "path": "emma-stone"
     }
   ]
 }
