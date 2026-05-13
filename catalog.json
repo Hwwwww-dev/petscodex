@@ -1681,6 +1681,12 @@
       "displayName": "Emma Stone",
       "description": "A cute chibi anime Emma Stone-inspired international movie star Codex pet with red hair, bright expressive smile, and playful award-show poses.",
       "path": "emma-stone"
+    },
+    {
+      "id": "blingbara",
+      "displayName": "Blingbara",
+      "description": "A tiny capybara pet wearing a crown with crown-only bling stars.",
+      "spritesheetPath": "spritesheet.webp"
     }
   ]
 }
