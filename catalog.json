@@ -1686,7 +1686,7 @@
       "id": "blingbara",
       "displayName": "Blingbara",
       "description": "A tiny capybara pet wearing a crown with crown-only bling stars.",
-      "spritesheetPath": "spritesheet.webp"
+      "path": "blingbara"
     }
   ]
 }
