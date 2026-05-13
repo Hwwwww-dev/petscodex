@@ -1681,6 +1681,12 @@
       "displayName": "Emma Stone",
       "description": "A cute chibi anime Emma Stone-inspired international movie star Codex pet with red hair, bright expressive smile, and playful award-show poses.",
       "path": "emma-stone"
+    },
+    {
+      "id": "liebao",
+      "displayName": "猎宝",
+      "description": "A lazy bone-masked rogue research companion for Codex.",
+      "path": "liebao"
     }
   ]
 }
